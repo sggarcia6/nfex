@@ -1,0 +1,1753 @@
+filename,compound_name,conc_um
+230831_Std_4uMStdsMix1InH2O_1,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_2,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_3,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_1,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_2,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_3,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_1,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_2,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_3,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_1,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_2,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_3,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_1,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_2,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_3,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full1,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full2,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full3,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full4,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full5,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full6,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full7,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full8,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full9,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full10,"Glycine betaine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full11,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_C_2ndInj,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_A,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_B,"Glycine betaine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_C,"Glycine betaine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_1,"Glycine betaine 0(15N), 1(13C)",0.03169706159583623
+230831_Std_4uMStdsMix1InH2O_2,"Glycine betaine 0(15N), 1(13C)",0.12394445121840487
+230831_Std_4uMStdsMix1InH2O_3,"Glycine betaine 0(15N), 1(13C)",71.69875172194553
+230831_Std_4uMStdsMix1InMatrix_1,"Glycine betaine 0(15N), 1(13C)",24.303378453120363
+230831_Std_4uMStdsMix1InMatrix_2,"Glycine betaine 0(15N), 1(13C)",6.340304369318774
+230831_Std_4uMStdsMix1InMatrix_3,"Glycine betaine 0(15N), 1(13C)",13.280139995260576
+230831_Std_4uMStdsMix2InH2O_1,"Glycine betaine 0(15N), 1(13C)",0.21597725541300403
+230831_Std_4uMStdsMix2InH2O_2,"Glycine betaine 0(15N), 1(13C)",0.21631739129880395
+230831_Std_4uMStdsMix2InH2O_3,"Glycine betaine 0(15N), 1(13C)",0.21455058485206818
+230831_Std_4uMStdsMix2InMatrix_1,"Glycine betaine 0(15N), 1(13C)",0.21543078360424478
+230831_Std_4uMStdsMix2InMatrix_2,"Glycine betaine 0(15N), 1(13C)",194.47690538727485
+230831_Std_4uMStdsMix2InMatrix_3,"Glycine betaine 0(15N), 1(13C)",0.21473621971813273
+230831_Std_H2OinMatrix_1,"Glycine betaine 0(15N), 1(13C)",0.049708301803890936
+230831_Std_H2OinMatrix_2,"Glycine betaine 0(15N), 1(13C)",0.28044415842676845
+230831_Std_H2OinMatrix_3,"Glycine betaine 0(15N), 1(13C)",7.990070798963159
+230831_Poo_G5_NFEX-CatEx_Full1,"Glycine betaine 0(15N), 1(13C)",16.831077287552535
+230831_Poo_G5_NFEX-CatEx_Full2,"Glycine betaine 0(15N), 1(13C)",0.14157751566283944
+230831_Poo_G5_NFEX-CatEx_Full3,"Glycine betaine 0(15N), 1(13C)",13.560774959332024
+230831_Poo_G5_NFEX-CatEx_Full4,"Glycine betaine 0(15N), 1(13C)",0.20703332616180445
+230831_Poo_G5_NFEX-CatEx_Full5,"Glycine betaine 0(15N), 1(13C)",0.2187437442133074
+230831_Poo_G5_NFEX-CatEx_Full6,"Glycine betaine 0(15N), 1(13C)",0.13957743620450244
+230831_Poo_G5_NFEX-CatEx_Full7,"Glycine betaine 0(15N), 1(13C)",0.27601565751290436
+230831_Poo_G5_NFEX-CatEx_Full8,"Glycine betaine 0(15N), 1(13C)",0.3556851434539437
+230831_Poo_G5_NFEX-CatEx_Full9,"Glycine betaine 0(15N), 1(13C)",0.13514328994858027
+230831_Poo_G5_NFEX-CatEx_Full10,"Glycine betaine 0(15N), 1(13C)",0.20027417315940457
+230831_Poo_G5_NFEX-CatEx_Full11,"Glycine betaine 0(15N), 1(13C)",5.607451014968753
+230831_Smp_G5_NFEX_T0_Metab_A,"Glycine betaine 0(15N), 1(13C)",41.58340530366529
+230831_Smp_G5_NFEX_T0_Metab_B,"Glycine betaine 0(15N), 1(13C)",15.424455807072746
+230831_Smp_G5_NFEX_T0_Metab_C,"Glycine betaine 0(15N), 1(13C)",18.628666685188787
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Glycine betaine 0(15N), 1(13C)",72.33601877822204
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Glycine betaine 0(15N), 1(13C)",0.1568085749229452
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Glycine betaine 0(15N), 1(13C)",0.2564475348008155
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Glycine betaine 0(15N), 1(13C)",0.22440876322336167
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Glycine betaine 0(15N), 1(13C)",71.3158985172014
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Glycine betaine 0(15N), 1(13C)",0.2676974578507938
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Glycine betaine 0(15N), 1(13C)",15.810313281094746
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Glycine betaine 0(15N), 1(13C)",0.22252638187453155
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Glycine betaine 0(15N), 1(13C)",0.3314733713189617
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Glycine betaine 0(15N), 1(13C)",25.93304099290069
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Glycine betaine 0(15N), 1(13C)",71.78861373500128
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Glycine betaine 0(15N), 1(13C)",0.007038552434666869
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Glycine betaine 0(15N), 1(13C)",4.926323893102364
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Glycine betaine 0(15N), 1(13C)",14.501424775645328
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Glycine betaine 0(15N), 1(13C)",3.4842549711832556
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Glycine betaine 0(15N), 1(13C)",19.12642076094712
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Glycine betaine 0(15N), 1(13C)",0.28857524974897697
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Glycine betaine 0(15N), 1(13C)",10.176597745571659
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Glycine betaine 0(15N), 1(13C)",0.1759675436845073
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Glycine betaine 0(15N), 1(13C)",6.598888831002583
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Glycine betaine 0(15N), 1(13C)",7.7411364038335035
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Glycine betaine 0(15N), 1(13C)",30.705460932264103
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Glycine betaine 0(15N), 1(13C)",446.9389987734905
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Glycine betaine 0(15N), 1(13C)",82.59953771603563
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Glycine betaine 0(15N), 1(13C)",11.577292791970569
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Glycine betaine 0(15N), 1(13C)",8.834566134740507
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Glycine betaine 0(15N), 1(13C)",1.1369756893019511
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Glycine betaine 0(15N), 1(13C)",0.22211291695583713
+230831_Smp_LabBlk_1_A,"Glycine betaine 0(15N), 1(13C)",0.945308945018068
+230831_Smp_LabBlk_1_B,"Glycine betaine 0(15N), 1(13C)",0.18562956161881974
+230831_Smp_LabBlk_1_C,"Glycine betaine 0(15N), 1(13C)",0.054699471642112106
+230831_Smp_LabBlk_1_C_2ndInj,"Glycine betaine 0(15N), 1(13C)",0.2442877704518785
+230831_Smp_LabBlk_2_A,"Glycine betaine 0(15N), 1(13C)",0.2250146204132231
+230831_Smp_LabBlk_2_B,"Glycine betaine 0(15N), 1(13C)",0.20824677004095726
+230831_Smp_LabBlk_2_C,"Glycine betaine 0(15N), 1(13C)",0.2170584535134075
+230831_Smp_LabBlk_3_A,"Glycine betaine 0(15N), 1(13C)",0.2236724285779744
+230831_Smp_LabBlk_3_B,"Glycine betaine 0(15N), 1(13C)",0.33831185068994524
+230831_Smp_LabBlk_3_C,"Glycine betaine 0(15N), 1(13C)",3.5495447906267055
+230831_Smp_LabBlk_4_A,"Glycine betaine 0(15N), 1(13C)",0.20406246271252276
+230831_Smp_LabBlk_4_B,"Glycine betaine 0(15N), 1(13C)",2.7148413178756536
+230831_Smp_LabBlk_4_C,"Glycine betaine 0(15N), 1(13C)",0.8890626764329613
+230831_Smp_LabBlk_5_A,"Glycine betaine 0(15N), 1(13C)",0.14561345911853374
+230831_Smp_LabBlk_5_B,"Glycine betaine 0(15N), 1(13C)",7.167037445722003
+230831_Smp_LabBlk_5_C,"Glycine betaine 0(15N), 1(13C)",9.840151912254848
+230831_Std_4uMStdsMix1InH2O_1,"Glycine betaine 1(15N), 0(13C)",NA
+230831_Std_4uMStdsMix1InH2O_2,"Glycine betaine 1(15N), 0(13C)",NA
+230831_Std_4uMStdsMix1InH2O_3,"Glycine betaine 1(15N), 0(13C)",2.9370774610575396
+230831_Std_4uMStdsMix1InMatrix_1,"Glycine betaine 1(15N), 0(13C)",16.49839494179405
+230831_Std_4uMStdsMix1InMatrix_2,"Glycine betaine 1(15N), 0(13C)",4.428038439967407
+230831_Std_4uMStdsMix1InMatrix_3,"Glycine betaine 1(15N), 0(13C)",7.045812719881879
+230831_Std_4uMStdsMix2InH2O_1,"Glycine betaine 1(15N), 0(13C)",0.014607337601138557
+230831_Std_4uMStdsMix2InH2O_2,"Glycine betaine 1(15N), 0(13C)",0.014070144567470093
+230831_Std_4uMStdsMix2InH2O_3,"Glycine betaine 1(15N), 0(13C)",0.014411810007170747
+230831_Std_4uMStdsMix2InMatrix_1,"Glycine betaine 1(15N), 0(13C)",0.020670206682152196
+230831_Std_4uMStdsMix2InMatrix_2,"Glycine betaine 1(15N), 0(13C)",17.71009401021103
+230831_Std_4uMStdsMix2InMatrix_3,"Glycine betaine 1(15N), 0(13C)",0.01930010757660448
+230831_Std_H2OinMatrix_1,"Glycine betaine 1(15N), 0(13C)",12.67717268370477
+230831_Std_H2OinMatrix_2,"Glycine betaine 1(15N), 0(13C)",0.06730631684721045
+230831_Std_H2OinMatrix_3,"Glycine betaine 1(15N), 0(13C)",0.04802588770005268
+230831_Poo_G5_NFEX-CatEx_Full1,"Glycine betaine 1(15N), 0(13C)",0.10139711490093628
+230831_Poo_G5_NFEX-CatEx_Full2,"Glycine betaine 1(15N), 0(13C)",0.09813575829039035
+230831_Poo_G5_NFEX-CatEx_Full3,"Glycine betaine 1(15N), 0(13C)",0.13902523071670528
+230831_Poo_G5_NFEX-CatEx_Full4,"Glycine betaine 1(15N), 0(13C)",2.917937736383981
+230831_Poo_G5_NFEX-CatEx_Full5,"Glycine betaine 1(15N), 0(13C)",0.0013998285015109433
+230831_Poo_G5_NFEX-CatEx_Full6,"Glycine betaine 1(15N), 0(13C)",0.01800130484738982
+230831_Poo_G5_NFEX-CatEx_Full7,"Glycine betaine 1(15N), 0(13C)",5.022810478199166
+230831_Poo_G5_NFEX-CatEx_Full8,"Glycine betaine 1(15N), 0(13C)",5.289558952384311
+230831_Poo_G5_NFEX-CatEx_Full9,"Glycine betaine 1(15N), 0(13C)",0.037194197266003565
+230831_Poo_G5_NFEX-CatEx_Full10,"Glycine betaine 1(15N), 0(13C)",0.01629386141395805
+230831_Poo_G5_NFEX-CatEx_Full11,"Glycine betaine 1(15N), 0(13C)",0.013059024836276025
+230831_Smp_G5_NFEX_T0_Metab_A,"Glycine betaine 1(15N), 0(13C)",2.5774446747966615
+230831_Smp_G5_NFEX_T0_Metab_B,"Glycine betaine 1(15N), 0(13C)",0.04822153994270417
+230831_Smp_G5_NFEX_T0_Metab_C,"Glycine betaine 1(15N), 0(13C)",0.9836734920679021
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Glycine betaine 1(15N), 0(13C)",42.86562829464304
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Glycine betaine 1(15N), 0(13C)",0.01355817022233677
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Glycine betaine 1(15N), 0(13C)",4.410636906932462
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Glycine betaine 1(15N), 0(13C)",0.05284331819760528
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Glycine betaine 1(15N), 0(13C)",0.313543453289484
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Glycine betaine 1(15N), 0(13C)",1.533480889081691
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Glycine betaine 1(15N), 0(13C)",0.0992042284911694
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Glycine betaine 1(15N), 0(13C)",0.0012102033460441315
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Glycine betaine 1(15N), 0(13C)",0.8666343630776917
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Glycine betaine 1(15N), 0(13C)",39.45458721606395
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Glycine betaine 1(15N), 0(13C)",120.14961252439737
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Glycine betaine 1(15N), 0(13C)",0.2935740926194423
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Glycine betaine 1(15N), 0(13C)",0.04664745265886426
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Glycine betaine 1(15N), 0(13C)",0.09144906648699717
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Glycine betaine 1(15N), 0(13C)",0.011091891211875801
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Glycine betaine 1(15N), 0(13C)",0.044792128021756174
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Glycine betaine 1(15N), 0(13C)",2.05463803787452
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Glycine betaine 1(15N), 0(13C)",4.93922907752473
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Glycine betaine 1(15N), 0(13C)",14.084619992192762
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Glycine betaine 1(15N), 0(13C)",17.221396515409747
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Glycine betaine 1(15N), 0(13C)",26.256799213079486
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Glycine betaine 1(15N), 0(13C)",0.2018147783209834
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Glycine betaine 1(15N), 0(13C)",2.1773222618527344
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Glycine betaine 1(15N), 0(13C)",0.3901645371098257
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Glycine betaine 1(15N), 0(13C)",0.13866657754216918
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Glycine betaine 1(15N), 0(13C)",8.685924649424962
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Glycine betaine 1(15N), 0(13C)",1.1071485114793351
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Glycine betaine 1(15N), 0(13C)",0.006044667137726208
+230831_Smp_LabBlk_1_A,"Glycine betaine 1(15N), 0(13C)",0.0035679247062175776
+230831_Smp_LabBlk_1_B,"Glycine betaine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_1_C,"Glycine betaine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_1_C_2ndInj,"Glycine betaine 1(15N), 0(13C)",0.006773993379970239
+230831_Smp_LabBlk_2_A,"Glycine betaine 1(15N), 0(13C)",0.0027355699751942754
+230831_Smp_LabBlk_2_B,"Glycine betaine 1(15N), 0(13C)",0.00954573386372137
+230831_Smp_LabBlk_2_C,"Glycine betaine 1(15N), 0(13C)",0.009734615254124262
+230831_Smp_LabBlk_3_A,"Glycine betaine 1(15N), 0(13C)",0.0016066293192822313
+230831_Smp_LabBlk_3_B,"Glycine betaine 1(15N), 0(13C)",0.012447853496350915
+230831_Smp_LabBlk_3_C,"Glycine betaine 1(15N), 0(13C)",0.028170521536730837
+230831_Smp_LabBlk_4_A,"Glycine betaine 1(15N), 0(13C)",0.04488737191282768
+230831_Smp_LabBlk_4_B,"Glycine betaine 1(15N), 0(13C)",0.11279137086642181
+230831_Smp_LabBlk_4_C,"Glycine betaine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_5_A,"Glycine betaine 1(15N), 0(13C)",0.1992209809789288
+230831_Smp_LabBlk_5_B,"Glycine betaine 1(15N), 0(13C)",0.1400054420429265
+230831_Smp_LabBlk_5_C,"Glycine betaine 1(15N), 0(13C)",0.5209363966334029
+230831_Std_4uMStdsMix1InH2O_1,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InH2O_2,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InH2O_3,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Glycine betaine 1(15N), 1(13C)",0.158418313982461
+230831_Std_4uMStdsMix1InMatrix_2,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_3,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_1,"Glycine betaine 1(15N), 1(13C)",1.5069465947857973e-4
+230831_Std_4uMStdsMix2InH2O_2,"Glycine betaine 1(15N), 1(13C)",2.122844966237336e-4
+230831_Std_4uMStdsMix2InH2O_3,"Glycine betaine 1(15N), 1(13C)",2.3817201670496137e-4
+230831_Std_4uMStdsMix2InMatrix_1,"Glycine betaine 1(15N), 1(13C)",4.5374956747670515e-4
+230831_Std_4uMStdsMix2InMatrix_2,"Glycine betaine 1(15N), 1(13C)",0.2117451494481652
+230831_Std_4uMStdsMix2InMatrix_3,"Glycine betaine 1(15N), 1(13C)",4.2185064518531786e-4
+230831_Std_H2OinMatrix_1,"Glycine betaine 1(15N), 1(13C)",0.5213008844517132
+230831_Std_H2OinMatrix_2,"Glycine betaine 1(15N), 1(13C)",0.09614224091724978
+230831_Std_H2OinMatrix_3,"Glycine betaine 1(15N), 1(13C)",0.09615089651200498
+230831_Poo_G5_NFEX-CatEx_Full1,"Glycine betaine 1(15N), 1(13C)",0.3608548201275415
+230831_Poo_G5_NFEX-CatEx_Full2,"Glycine betaine 1(15N), 1(13C)",0.33680981824016476
+230831_Poo_G5_NFEX-CatEx_Full3,"Glycine betaine 1(15N), 1(13C)",0.3532745268871734
+230831_Poo_G5_NFEX-CatEx_Full4,"Glycine betaine 1(15N), 1(13C)",0.07016677490983646
+230831_Poo_G5_NFEX-CatEx_Full5,"Glycine betaine 1(15N), 1(13C)",0.006310667820734004
+230831_Poo_G5_NFEX-CatEx_Full6,"Glycine betaine 1(15N), 1(13C)",0.04932389577753769
+230831_Poo_G5_NFEX-CatEx_Full7,"Glycine betaine 1(15N), 1(13C)",0.11102828732870244
+230831_Poo_G5_NFEX-CatEx_Full8,"Glycine betaine 1(15N), 1(13C)",0.18288214148310608
+230831_Poo_G5_NFEX-CatEx_Full9,"Glycine betaine 1(15N), 1(13C)",0.06910203270143143
+230831_Poo_G5_NFEX-CatEx_Full10,"Glycine betaine 1(15N), 1(13C)",0.05708742041884831
+230831_Poo_G5_NFEX-CatEx_Full11,"Glycine betaine 1(15N), 1(13C)",0.13315719408439466
+230831_Smp_G5_NFEX_T0_Metab_A,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T0_Metab_B,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T0_Metab_C,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Glycine betaine 1(15N), 1(13C)",0.8700045752024029
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Glycine betaine 1(15N), 1(13C)",0.036841896962308066
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Glycine betaine 1(15N), 1(13C)",0.16200938950986934
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Glycine betaine 1(15N), 1(13C)",2.588564624206369e-4
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Glycine betaine 1(15N), 1(13C)",0.09982533713080832
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Glycine betaine 1(15N), 1(13C)",0.04944011611657837
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Glycine betaine 1(15N), 1(13C)",0.018843261277652287
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Glycine betaine 1(15N), 1(13C)",2.8154475334980506e-4
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Glycine betaine 1(15N), 1(13C)",1.8501914339184995
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Glycine betaine 1(15N), 1(13C)",6.197715499847645
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Glycine betaine 1(15N), 1(13C)",0.012691439823094744
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Glycine betaine 1(15N), 1(13C)",0.01870586211872266
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Glycine betaine 1(15N), 1(13C)",0.06474940412716344
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Glycine betaine 1(15N), 1(13C)",0.07236029972559226
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Glycine betaine 1(15N), 1(13C)",0.21456484456136007
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Glycine betaine 1(15N), 1(13C)",0.019916559806839672
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Glycine betaine 1(15N), 1(13C)",0.14963809523809524
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Glycine betaine 1(15N), 1(13C)",0.6984681969761112
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Glycine betaine 1(15N), 1(13C)",0.792210281104173
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Glycine betaine 1(15N), 1(13C)",1.2746092597066456
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Glycine betaine 1(15N), 1(13C)",0.5543078400188243
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Glycine betaine 1(15N), 1(13C)",22.99871709923449
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Glycine betaine 1(15N), 1(13C)",2.925092007024213
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Glycine betaine 1(15N), 1(13C)",0.3706966364928825
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Glycine betaine 1(15N), 1(13C)",0.005509735147954857
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Glycine betaine 1(15N), 1(13C)",0.0068728423029883945
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Glycine betaine 1(15N), 1(13C)",0.001018080928588352
+230831_Smp_LabBlk_1_A,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_B,"Glycine betaine 1(15N), 1(13C)",0.003469277657103382
+230831_Smp_LabBlk_1_C,"Glycine betaine 1(15N), 1(13C)",0.0038609912156947618
+230831_Smp_LabBlk_1_C_2ndInj,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_A,"Glycine betaine 1(15N), 1(13C)",0.0014433880509853304
+230831_Smp_LabBlk_2_B,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_C,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_A,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_B,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_C,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_4_A,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_4_B,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_4_C,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_A,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_B,"Glycine betaine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_C,"Glycine betaine 1(15N), 1(13C)",0.009834736082127564
+230831_Std_4uMStdsMix1InH2O_1,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_2,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_3,"Guanine 0(15N), 0(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_2,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_3,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_1,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_2,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_3,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_1,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_2,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_3,"Guanine 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_1,"Guanine 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_2,"Guanine 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_3,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full1,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full2,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full3,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full4,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full5,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full6,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full7,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full8,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full9,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full10,"Guanine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full11,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_C_2ndInj,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_C,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_A,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_B,"Guanine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_C,"Guanine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_1,"Guanine 0(15N), 1(13C)",0.041031584844085776
+230831_Std_4uMStdsMix1InH2O_2,"Guanine 0(15N), 1(13C)",0.5270549186775332
+230831_Std_4uMStdsMix1InH2O_3,"Guanine 0(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Guanine 0(15N), 1(13C)",0.010922399893976704
+230831_Std_4uMStdsMix1InMatrix_2,"Guanine 0(15N), 1(13C)",0.016748935701015617
+230831_Std_4uMStdsMix1InMatrix_3,"Guanine 0(15N), 1(13C)",3.6571861964353434
+230831_Std_4uMStdsMix2InH2O_1,"Guanine 0(15N), 1(13C)",0.21834979823222997
+230831_Std_4uMStdsMix2InH2O_2,"Guanine 0(15N), 1(13C)",0.2147109446390358
+230831_Std_4uMStdsMix2InH2O_3,"Guanine 0(15N), 1(13C)",0.2115881249368128
+230831_Std_4uMStdsMix2InMatrix_1,"Guanine 0(15N), 1(13C)",0.21238615607074793
+230831_Std_4uMStdsMix2InMatrix_2,"Guanine 0(15N), 1(13C)",0.21626709704811514
+230831_Std_4uMStdsMix2InMatrix_3,"Guanine 0(15N), 1(13C)",0.2151561940440405
+230831_Std_H2OinMatrix_1,"Guanine 0(15N), 1(13C)",0.14843295855439206
+230831_Std_H2OinMatrix_2,"Guanine 0(15N), 1(13C)",0.18704591622583924
+230831_Std_H2OinMatrix_3,"Guanine 0(15N), 1(13C)",0.15008651708984022
+230831_Poo_G5_NFEX-CatEx_Full1,"Guanine 0(15N), 1(13C)",0.18138326389680495
+230831_Poo_G5_NFEX-CatEx_Full2,"Guanine 0(15N), 1(13C)",0.1852552260455533
+230831_Poo_G5_NFEX-CatEx_Full3,"Guanine 0(15N), 1(13C)",60.03070761014686
+230831_Poo_G5_NFEX-CatEx_Full4,"Guanine 0(15N), 1(13C)",0.16148329384894247
+230831_Poo_G5_NFEX-CatEx_Full5,"Guanine 0(15N), 1(13C)",0.1774355284179722
+230831_Poo_G5_NFEX-CatEx_Full6,"Guanine 0(15N), 1(13C)",0.18398524049342999
+230831_Poo_G5_NFEX-CatEx_Full7,"Guanine 0(15N), 1(13C)",0.17637150045143504
+230831_Poo_G5_NFEX-CatEx_Full8,"Guanine 0(15N), 1(13C)",0.15564226981567128
+230831_Poo_G5_NFEX-CatEx_Full9,"Guanine 0(15N), 1(13C)",0.16592586125745867
+230831_Poo_G5_NFEX-CatEx_Full10,"Guanine 0(15N), 1(13C)",0.17001837624287403
+230831_Poo_G5_NFEX-CatEx_Full11,"Guanine 0(15N), 1(13C)",0.1859293598084929
+230831_Smp_G5_NFEX_T0_Metab_A,"Guanine 0(15N), 1(13C)",17.029415751660565
+230831_Smp_G5_NFEX_T0_Metab_B,"Guanine 0(15N), 1(13C)",0.08713072362882175
+230831_Smp_G5_NFEX_T0_Metab_C,"Guanine 0(15N), 1(13C)",0.12985189251738327
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Guanine 0(15N), 1(13C)",0.049217655770429795
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Guanine 0(15N), 1(13C)",0.017571305606210768
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Guanine 0(15N), 1(13C)",0.04576137076750975
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Guanine 0(15N), 1(13C)",0.06099735162446349
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Guanine 0(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Guanine 0(15N), 1(13C)",0.04548540230211793
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Guanine 0(15N), 1(13C)",0.09401686556441906
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Guanine 0(15N), 1(13C)",0.049137631670332214
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Guanine 0(15N), 1(13C)",0.08312380707131761
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Guanine 0(15N), 1(13C)",0.14587837970068804
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Guanine 0(15N), 1(13C)",0.192140578652906
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Guanine 0(15N), 1(13C)",8.134679579641459
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Guanine 0(15N), 1(13C)",601.9777881329605
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Guanine 0(15N), 1(13C)",0.0358738152783226
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Guanine 0(15N), 1(13C)",0.02089867886308333
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Guanine 0(15N), 1(13C)",0.14941185698482376
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Guanine 0(15N), 1(13C)",0.036537853679524994
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Guanine 0(15N), 1(13C)",0.033634847860769715
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Guanine 0(15N), 1(13C)",6.001559509463387
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Guanine 0(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Guanine 0(15N), 1(13C)",0.017633959005590148
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Guanine 0(15N), 1(13C)",0.013012177026948615
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Guanine 0(15N), 1(13C)",0.203531180574257
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Guanine 0(15N), 1(13C)",0.039207969142929136
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Guanine 0(15N), 1(13C)",0.03519007582520809
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Guanine 0(15N), 1(13C)",0.036501799537381106
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Guanine 0(15N), 1(13C)",2.9944561269355763
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Guanine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_A,"Guanine 0(15N), 1(13C)",0.2014462762484057
+230831_Smp_LabBlk_1_B,"Guanine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_C,"Guanine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_C_2ndInj,"Guanine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_A,"Guanine 0(15N), 1(13C)",2009.429859755015
+230831_Smp_LabBlk_2_B,"Guanine 0(15N), 1(13C)",0.13501200944380123
+230831_Smp_LabBlk_2_C,"Guanine 0(15N), 1(13C)",0.17973182824885964
+230831_Smp_LabBlk_3_A,"Guanine 0(15N), 1(13C)",0.08589001883262694
+230831_Smp_LabBlk_3_B,"Guanine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_C,"Guanine 0(15N), 1(13C)",0.09604897690853809
+230831_Smp_LabBlk_4_A,"Guanine 0(15N), 1(13C)",0.016387288691025747
+230831_Smp_LabBlk_4_B,"Guanine 0(15N), 1(13C)",0.01853644947576288
+230831_Smp_LabBlk_4_C,"Guanine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_A,"Guanine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_B,"Guanine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_C,"Guanine 0(15N), 1(13C)",3.4288102535525216
+230831_Std_4uMStdsMix1InH2O_1,"Guanine 1(15N), 0(13C)",0.6522568664792426
+230831_Std_4uMStdsMix1InH2O_2,"Guanine 1(15N), 0(13C)",3.7489297264471104
+230831_Std_4uMStdsMix1InH2O_3,"Guanine 1(15N), 0(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Guanine 1(15N), 0(13C)",0.0074671962645125635
+230831_Std_4uMStdsMix1InMatrix_2,"Guanine 1(15N), 0(13C)",0.27893959162259585
+230831_Std_4uMStdsMix1InMatrix_3,"Guanine 1(15N), 0(13C)",NA
+230831_Std_4uMStdsMix2InH2O_1,"Guanine 1(15N), 0(13C)",0.07195408178507205
+230831_Std_4uMStdsMix2InH2O_2,"Guanine 1(15N), 0(13C)",0.0687343599501407
+230831_Std_4uMStdsMix2InH2O_3,"Guanine 1(15N), 0(13C)",0.07159841737670525
+230831_Std_4uMStdsMix2InMatrix_1,"Guanine 1(15N), 0(13C)",0.07112481838280166
+230831_Std_4uMStdsMix2InMatrix_2,"Guanine 1(15N), 0(13C)",0.06933506026113034
+230831_Std_4uMStdsMix2InMatrix_3,"Guanine 1(15N), 0(13C)",0.07099059838250868
+230831_Std_H2OinMatrix_1,"Guanine 1(15N), 0(13C)",0.020168722586182877
+230831_Std_H2OinMatrix_2,"Guanine 1(15N), 0(13C)",0.045079120274328824
+230831_Std_H2OinMatrix_3,"Guanine 1(15N), 0(13C)",0.03458752947252328
+230831_Poo_G5_NFEX-CatEx_Full1,"Guanine 1(15N), 0(13C)",0.037792690594996896
+230831_Poo_G5_NFEX-CatEx_Full2,"Guanine 1(15N), 0(13C)",0.072267193853874
+230831_Poo_G5_NFEX-CatEx_Full3,"Guanine 1(15N), 0(13C)",21.534045393858477
+230831_Poo_G5_NFEX-CatEx_Full4,"Guanine 1(15N), 0(13C)",0.028639164422677995
+230831_Poo_G5_NFEX-CatEx_Full5,"Guanine 1(15N), 0(13C)",0.03779758931529013
+230831_Poo_G5_NFEX-CatEx_Full6,"Guanine 1(15N), 0(13C)",0.06273714332285903
+230831_Poo_G5_NFEX-CatEx_Full7,"Guanine 1(15N), 0(13C)",0.0521966439929476
+230831_Poo_G5_NFEX-CatEx_Full8,"Guanine 1(15N), 0(13C)",0.02664837816761571
+230831_Poo_G5_NFEX-CatEx_Full9,"Guanine 1(15N), 0(13C)",0.004680169442630916
+230831_Poo_G5_NFEX-CatEx_Full10,"Guanine 1(15N), 0(13C)",0.05684762004970048
+230831_Poo_G5_NFEX-CatEx_Full11,"Guanine 1(15N), 0(13C)",0.05722782396131808
+230831_Smp_G5_NFEX_T0_Metab_A,"Guanine 1(15N), 0(13C)",1.6827978853192354
+230831_Smp_G5_NFEX_T0_Metab_B,"Guanine 1(15N), 0(13C)",0.01802071445687671
+230831_Smp_G5_NFEX_T0_Metab_C,"Guanine 1(15N), 0(13C)",0.016897185972627713
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Guanine 1(15N), 0(13C)",0.01242826167418498
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Guanine 1(15N), 0(13C)",0.03657599886487281
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Guanine 1(15N), 0(13C)",0.05704463335633017
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Guanine 1(15N), 0(13C)",0.013537419372891966
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Guanine 1(15N), 0(13C)",0.014690130068859985
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Guanine 1(15N), 0(13C)",0.01318579453228925
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Guanine 1(15N), 0(13C)",0.01171519052484292
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Guanine 1(15N), 0(13C)",0.12220516820572176
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Guanine 1(15N), 0(13C)",0.09636802055049756
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Guanine 1(15N), 0(13C)",1.2793735833505049
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Guanine 1(15N), 0(13C)",186.84513824168997
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Guanine 1(15N), 0(13C)",0.010531414165248817
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Guanine 1(15N), 0(13C)",0.03205682790409332
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Guanine 1(15N), 0(13C)",3.674487842914865
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Guanine 1(15N), 0(13C)",0.02521735142465915
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Guanine 1(15N), 0(13C)",0.18373098720140005
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Guanine 1(15N), 0(13C)",0.01877118960186344
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Guanine 1(15N), 0(13C)",0.06667082977192688
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Guanine 1(15N), 0(13C)",0.03805735138272033
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Guanine 1(15N), 0(13C)",0.03166104523639144
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Guanine 1(15N), 0(13C)",0.09032146724229595
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_1_A,"Guanine 1(15N), 0(13C)",0.06620566241097148
+230831_Smp_LabBlk_1_B,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_1_C,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_1_C_2ndInj,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_2_A,"Guanine 1(15N), 0(13C)",652.4496360731404
+230831_Smp_LabBlk_2_B,"Guanine 1(15N), 0(13C)",0.021435771317823652
+230831_Smp_LabBlk_2_C,"Guanine 1(15N), 0(13C)",0.060765195969269284
+230831_Smp_LabBlk_3_A,"Guanine 1(15N), 0(13C)",0.010606975160355244
+230831_Smp_LabBlk_3_B,"Guanine 1(15N), 0(13C)",0.012643759854904221
+230831_Smp_LabBlk_3_C,"Guanine 1(15N), 0(13C)",0.025136001314816338
+230831_Smp_LabBlk_4_A,"Guanine 1(15N), 0(13C)",0.016885102975184363
+230831_Smp_LabBlk_4_B,"Guanine 1(15N), 0(13C)",0.013917501454654107
+230831_Smp_LabBlk_4_C,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_5_A,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_5_B,"Guanine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_5_C,"Guanine 1(15N), 0(13C)",4.346614655893006
+230831_Std_4uMStdsMix1InH2O_1,"Guanine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InH2O_2,"Guanine 1(15N), 1(13C)",0.05685439698870634
+230831_Std_4uMStdsMix1InH2O_3,"Guanine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Guanine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_2,"Guanine 1(15N), 1(13C)",0.02745926585429834
+230831_Std_4uMStdsMix1InMatrix_3,"Guanine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_1,"Guanine 1(15N), 1(13C)",0.00515581391900707
+230831_Std_4uMStdsMix2InH2O_2,"Guanine 1(15N), 1(13C)",0.005390505486411452
+230831_Std_4uMStdsMix2InH2O_3,"Guanine 1(15N), 1(13C)",0.005055851484592742
+230831_Std_4uMStdsMix2InMatrix_1,"Guanine 1(15N), 1(13C)",0.0022035626297257946
+230831_Std_4uMStdsMix2InMatrix_2,"Guanine 1(15N), 1(13C)",0.003521986626360871
+230831_Std_4uMStdsMix2InMatrix_3,"Guanine 1(15N), 1(13C)",0.0028613305810879105
+230831_Std_H2OinMatrix_1,"Guanine 1(15N), 1(13C)",0.013056943872836721
+230831_Std_H2OinMatrix_2,"Guanine 1(15N), 1(13C)",0.017792369960184264
+230831_Std_H2OinMatrix_3,"Guanine 1(15N), 1(13C)",0.005536128426595619
+230831_Poo_G5_NFEX-CatEx_Full1,"Guanine 1(15N), 1(13C)",0.004979720611433677
+230831_Poo_G5_NFEX-CatEx_Full2,"Guanine 1(15N), 1(13C)",0.0037605012921863826
+230831_Poo_G5_NFEX-CatEx_Full3,"Guanine 1(15N), 1(13C)",1.4221183800623054
+230831_Poo_G5_NFEX-CatEx_Full4,"Guanine 1(15N), 1(13C)",0.009654859573751244
+230831_Poo_G5_NFEX-CatEx_Full5,"Guanine 1(15N), 1(13C)",0.009008782992557028
+230831_Poo_G5_NFEX-CatEx_Full6,"Guanine 1(15N), 1(13C)",0.004583977774249999
+230831_Poo_G5_NFEX-CatEx_Full7,"Guanine 1(15N), 1(13C)",0.006471001555457915
+230831_Poo_G5_NFEX-CatEx_Full8,"Guanine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full9,"Guanine 1(15N), 1(13C)",0.004441669323697169
+230831_Poo_G5_NFEX-CatEx_Full10,"Guanine 1(15N), 1(13C)",0.004912129639550848
+230831_Poo_G5_NFEX-CatEx_Full11,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T0_Metab_A,"Guanine 1(15N), 1(13C)",4.562288193032398
+230831_Smp_G5_NFEX_T0_Metab_B,"Guanine 1(15N), 1(13C)",0.018022550682111768
+230831_Smp_G5_NFEX_T0_Metab_C,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Guanine 1(15N), 1(13C)",0.01074544516878035
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Guanine 1(15N), 1(13C)",0.02359442947913733
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Guanine 1(15N), 1(13C)",0.01181246787277831
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Guanine 1(15N), 1(13C)",0.017976495003792718
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Guanine 1(15N), 1(13C)",0.011482762491780844
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Guanine 1(15N), 1(13C)",0.015015884040076656
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Guanine 1(15N), 1(13C)",0.023665638607036823
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Guanine 1(15N), 1(13C)",0.00750488555636632
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Guanine 1(15N), 1(13C)",0.9900679991757676
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Guanine 1(15N), 1(13C)",3.0756446101273687
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Guanine 1(15N), 1(13C)",0.016574504072447812
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Guanine 1(15N), 1(13C)",0.01748945765864472
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Guanine 1(15N), 1(13C)",0.006173991519777419
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Guanine 1(15N), 1(13C)",0.01158423508834201
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Guanine 1(15N), 1(13C)",0.018154424121641838
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Guanine 1(15N), 1(13C)",2.1416318139930532
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Guanine 1(15N), 1(13C)",0.023261679977462278
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Guanine 1(15N), 1(13C)",7.527197870224733e-4
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Guanine 1(15N), 1(13C)",2.4802141082011087
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_A,"Guanine 1(15N), 1(13C)",7.728765160327708e-4
+230831_Smp_LabBlk_1_B,"Guanine 1(15N), 1(13C)",2.0804140127388533
+230831_Smp_LabBlk_1_C,"Guanine 1(15N), 1(13C)",0.0691957967732805
+230831_Smp_LabBlk_1_C_2ndInj,"Guanine 1(15N), 1(13C)",2.1945405613225684
+230831_Smp_LabBlk_2_A,"Guanine 1(15N), 1(13C)",18.524835789099946
+230831_Smp_LabBlk_2_B,"Guanine 1(15N), 1(13C)",0.006856690965133921
+230831_Smp_LabBlk_2_C,"Guanine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_A,"Guanine 1(15N), 1(13C)",0.014446570266682612
+230831_Smp_LabBlk_3_B,"Guanine 1(15N), 1(13C)",0.01342504481595843
+230831_Smp_LabBlk_3_C,"Guanine 1(15N), 1(13C)",0.012232722491576958
+230831_Smp_LabBlk_4_A,"Guanine 1(15N), 1(13C)",0.06094166712322189
+230831_Smp_LabBlk_4_B,"Guanine 1(15N), 1(13C)",0.017842259330567056
+230831_Smp_LabBlk_4_C,"Guanine 1(15N), 1(13C)",0.02714273033191036
+230831_Smp_LabBlk_5_A,"Guanine 1(15N), 1(13C)",0.03914696263646784
+230831_Smp_LabBlk_5_B,"Guanine 1(15N), 1(13C)",0.02645958330586141
+230831_Smp_LabBlk_5_C,"Guanine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InH2O_1,"Guanine 2(15N), 0(13C)",0.008802310958156506
+230831_Std_4uMStdsMix1InH2O_2,"Guanine 2(15N), 0(13C)",NA
+230831_Std_4uMStdsMix1InH2O_3,"Guanine 2(15N), 0(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Guanine 2(15N), 0(13C)",0.23064512230326165
+230831_Std_4uMStdsMix1InMatrix_2,"Guanine 2(15N), 0(13C)",0.6706477598448312
+230831_Std_4uMStdsMix1InMatrix_3,"Guanine 2(15N), 0(13C)",314.8538490709139
+230831_Std_4uMStdsMix2InH2O_1,"Guanine 2(15N), 0(13C)",4.0829191143078624e-5
+230831_Std_4uMStdsMix2InH2O_2,"Guanine 2(15N), 0(13C)",6.312769036097144e-5
+230831_Std_4uMStdsMix2InH2O_3,"Guanine 2(15N), 0(13C)",NA
+230831_Std_4uMStdsMix2InMatrix_1,"Guanine 2(15N), 0(13C)",0.008122017561245868
+230831_Std_4uMStdsMix2InMatrix_2,"Guanine 2(15N), 0(13C)",0.005252714415416515
+230831_Std_4uMStdsMix2InMatrix_3,"Guanine 2(15N), 0(13C)",0.0037009360313867653
+230831_Std_H2OinMatrix_1,"Guanine 2(15N), 0(13C)",0.46185245741500214
+230831_Std_H2OinMatrix_2,"Guanine 2(15N), 0(13C)",0.3785020777827452
+230831_Std_H2OinMatrix_3,"Guanine 2(15N), 0(13C)",0.9035347721475303
+230831_Poo_G5_NFEX-CatEx_Full1,"Guanine 2(15N), 0(13C)",0.4810272438784928
+230831_Poo_G5_NFEX-CatEx_Full2,"Guanine 2(15N), 0(13C)",1.4874933689902805
+230831_Poo_G5_NFEX-CatEx_Full3,"Guanine 2(15N), 0(13C)",73.57721406319537
+230831_Poo_G5_NFEX-CatEx_Full4,"Guanine 2(15N), 0(13C)",1.5014148925752262
+230831_Poo_G5_NFEX-CatEx_Full5,"Guanine 2(15N), 0(13C)",1.2277345167175808
+230831_Poo_G5_NFEX-CatEx_Full6,"Guanine 2(15N), 0(13C)",0.6134243426517842
+230831_Poo_G5_NFEX-CatEx_Full7,"Guanine 2(15N), 0(13C)",0.5239738890711932
+230831_Poo_G5_NFEX-CatEx_Full8,"Guanine 2(15N), 0(13C)",0.4662152156740658
+230831_Poo_G5_NFEX-CatEx_Full9,"Guanine 2(15N), 0(13C)",0.9748404516445753
+230831_Poo_G5_NFEX-CatEx_Full10,"Guanine 2(15N), 0(13C)",0.4232096033968538
+230831_Poo_G5_NFEX-CatEx_Full11,"Guanine 2(15N), 0(13C)",0.9537540052063462
+230831_Smp_G5_NFEX_T0_Metab_A,"Guanine 2(15N), 0(13C)",308.0406669377796
+230831_Smp_G5_NFEX_T0_Metab_B,"Guanine 2(15N), 0(13C)",5.375132552509156
+230831_Smp_G5_NFEX_T0_Metab_C,"Guanine 2(15N), 0(13C)",1.0620500656266045
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Guanine 2(15N), 0(13C)",1.669062789381806
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Guanine 2(15N), 0(13C)",0.48358155794759156
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Guanine 2(15N), 0(13C)",4.004161258511754
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Guanine 2(15N), 0(13C)",1.1191270672106268
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Guanine 2(15N), 0(13C)",5.51642492882498
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Guanine 2(15N), 0(13C)",3.4607449434299156
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Guanine 2(15N), 0(13C)",4.351846909658984
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Guanine 2(15N), 0(13C)",3.8334855285891285
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Guanine 2(15N), 0(13C)",2.7773744223373873
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Guanine 2(15N), 0(13C)",0.3282635376739999
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Guanine 2(15N), 0(13C)",0.1581923894350022
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Guanine 2(15N), 0(13C)",348.8415413146507
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Guanine 2(15N), 0(13C)",177.9488971730351
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Guanine 2(15N), 0(13C)",0.12553937261948447
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Guanine 2(15N), 0(13C)",3.6561043659944197
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Guanine 2(15N), 0(13C)",2.1902180821858526
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Guanine 2(15N), 0(13C)",3.478765507375155
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Guanine 2(15N), 0(13C)",5.8227257656724305
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Guanine 2(15N), 0(13C)",553.8904090168002
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Guanine 2(15N), 0(13C)",3.4439865559872374
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Guanine 2(15N), 0(13C)",3.7613628061075675
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Guanine 2(15N), 0(13C)",0.6448477664398153
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Guanine 2(15N), 0(13C)",0.19128655564185326
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Guanine 2(15N), 0(13C)",0.22806314349441054
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Guanine 2(15N), 0(13C)",6.413971138403731
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Guanine 2(15N), 0(13C)",5.328398731834136
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Guanine 2(15N), 0(13C)",218.4213343528962
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Guanine 2(15N), 0(13C)",1.9662171600797513
+230831_Smp_LabBlk_1_A,"Guanine 2(15N), 0(13C)",0.0544049968767524
+230831_Smp_LabBlk_1_B,"Guanine 2(15N), 0(13C)",50.00981953290871
+230831_Smp_LabBlk_1_C,"Guanine 2(15N), 0(13C)",1.9586576563826776
+230831_Smp_LabBlk_1_C_2ndInj,"Guanine 2(15N), 0(13C)",11.150839420735615
+230831_Smp_LabBlk_2_A,"Guanine 2(15N), 0(13C)",141.7306586188532
+230831_Smp_LabBlk_2_B,"Guanine 2(15N), 0(13C)",0.605744263499828
+230831_Smp_LabBlk_2_C,"Guanine 2(15N), 0(13C)",0.3255233453060455
+230831_Smp_LabBlk_3_A,"Guanine 2(15N), 0(13C)",0.17537107082422954
+230831_Smp_LabBlk_3_B,"Guanine 2(15N), 0(13C)",0.04586205898069689
+230831_Smp_LabBlk_3_C,"Guanine 2(15N), 0(13C)",0.2575790944202482
+230831_Smp_LabBlk_4_A,"Guanine 2(15N), 0(13C)",0.16506872339720371
+230831_Smp_LabBlk_4_B,"Guanine 2(15N), 0(13C)",0.15785749107550048
+230831_Smp_LabBlk_4_C,"Guanine 2(15N), 0(13C)",0.05384565724384477
+230831_Smp_LabBlk_5_A,"Guanine 2(15N), 0(13C)",0.12383114498006363
+230831_Smp_LabBlk_5_B,"Guanine 2(15N), 0(13C)",0.06139150787894772
+230831_Smp_LabBlk_5_C,"Guanine 2(15N), 0(13C)",3.7174700473669544
+230831_Std_4uMStdsMix1InH2O_1,"Guanine 2(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InH2O_2,"Guanine 2(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InH2O_3,"Guanine 2(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Guanine 2(15N), 1(13C)",0.4575083025186923
+230831_Std_4uMStdsMix1InMatrix_2,"Guanine 2(15N), 1(13C)",0.21385724243904652
+230831_Std_4uMStdsMix1InMatrix_3,"Guanine 2(15N), 1(13C)",29.566021994690935
+230831_Std_4uMStdsMix2InH2O_1,"Guanine 2(15N), 1(13C)",3.36405009721568e-5
+230831_Std_4uMStdsMix2InH2O_2,"Guanine 2(15N), 1(13C)",4.27434163788958e-5
+230831_Std_4uMStdsMix2InH2O_3,"Guanine 2(15N), 1(13C)",1.0264054836854692e-4
+230831_Std_4uMStdsMix2InMatrix_1,"Guanine 2(15N), 1(13C)",0.004340853066657607
+230831_Std_4uMStdsMix2InMatrix_2,"Guanine 2(15N), 1(13C)",0.0017186033540242444
+230831_Std_4uMStdsMix2InMatrix_3,"Guanine 2(15N), 1(13C)",NA
+230831_Std_H2OinMatrix_1,"Guanine 2(15N), 1(13C)",0.9533770940192839
+230831_Std_H2OinMatrix_2,"Guanine 2(15N), 1(13C)",0.9227736605851014
+230831_Std_H2OinMatrix_3,"Guanine 2(15N), 1(13C)",0.2401936438295336
+230831_Poo_G5_NFEX-CatEx_Full1,"Guanine 2(15N), 1(13C)",0.8009754698456707
+230831_Poo_G5_NFEX-CatEx_Full2,"Guanine 2(15N), 1(13C)",0.8072871051056547
+230831_Poo_G5_NFEX-CatEx_Full3,"Guanine 2(15N), 1(13C)",272.2309746328438
+230831_Poo_G5_NFEX-CatEx_Full4,"Guanine 2(15N), 1(13C)",0.7405319914898411
+230831_Poo_G5_NFEX-CatEx_Full5,"Guanine 2(15N), 1(13C)",0.6804785915964796
+230831_Poo_G5_NFEX-CatEx_Full6,"Guanine 2(15N), 1(13C)",0.6699541546780173
+230831_Poo_G5_NFEX-CatEx_Full7,"Guanine 2(15N), 1(13C)",0.6937223646668187
+230831_Poo_G5_NFEX-CatEx_Full8,"Guanine 2(15N), 1(13C)",0.5851706485762818
+230831_Poo_G5_NFEX-CatEx_Full9,"Guanine 2(15N), 1(13C)",0.5836724210355839
+230831_Poo_G5_NFEX-CatEx_Full10,"Guanine 2(15N), 1(13C)",0.5393110340795484
+230831_Poo_G5_NFEX-CatEx_Full11,"Guanine 2(15N), 1(13C)",0.4543082419428688
+230831_Smp_G5_NFEX_T0_Metab_A,"Guanine 2(15N), 1(13C)",1291.6101396231531
+230831_Smp_G5_NFEX_T0_Metab_B,"Guanine 2(15N), 1(13C)",5.121145877995687
+230831_Smp_G5_NFEX_T0_Metab_C,"Guanine 2(15N), 1(13C)",0.15760151407309636
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Guanine 2(15N), 1(13C)",0.04508435590434606
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Guanine 2(15N), 1(13C)",5.417846255419545
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Guanine 2(15N), 1(13C)",2.919829901347459
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Guanine 2(15N), 1(13C)",1.9482092895154766
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Guanine 2(15N), 1(13C)",0.30072472096436814
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Guanine 2(15N), 1(13C)",1.3387763440062401
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Guanine 2(15N), 1(13C)",0.6868948716989217
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Guanine 2(15N), 1(13C)",0.9716959696123951
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Guanine 2(15N), 1(13C)",1.1209911337308074
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Guanine 2(15N), 1(13C)",0.22667080436247333
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Guanine 2(15N), 1(13C)",0.022857220910592273
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Guanine 2(15N), 1(13C)",291.7495981866887
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Guanine 2(15N), 1(13C)",152.22180801491146
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Guanine 2(15N), 1(13C)",2.194631792509733
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Guanine 2(15N), 1(13C)",0.020422203253793333
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Guanine 2(15N), 1(13C)",1.04924227056472
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Guanine 2(15N), 1(13C)",0.8762001978245707
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Guanine 2(15N), 1(13C)",1.8831605725238667
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Guanine 2(15N), 1(13C)",145.1778549656199
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Guanine 2(15N), 1(13C)",1.869212424573978
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Guanine 2(15N), 1(13C)",0.9742607020791756
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Guanine 2(15N), 1(13C)",0.4099198421711415
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Guanine 2(15N), 1(13C)",0.07517798359129407
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Guanine 2(15N), 1(13C)",0.13829711916308168
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Guanine 2(15N), 1(13C)",2.041509231654985
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Guanine 2(15N), 1(13C)",0.16161265271016176
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Guanine 2(15N), 1(13C)",27.871917415408145
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Guanine 2(15N), 1(13C)",0.09253523690459896
+230831_Smp_LabBlk_1_A,"Guanine 2(15N), 1(13C)",0.22364499065620938
+230831_Smp_LabBlk_1_B,"Guanine 2(15N), 1(13C)",1438.627653927813
+230831_Smp_LabBlk_1_C,"Guanine 2(15N), 1(13C)",5.900031842626663
+230831_Smp_LabBlk_1_C_2ndInj,"Guanine 2(15N), 1(13C)",137.85467128027682
+230831_Smp_LabBlk_2_A,"Guanine 2(15N), 1(13C)",8.92753417361974
+230831_Smp_LabBlk_2_B,"Guanine 2(15N), 1(13C)",0.008644003740376344
+230831_Smp_LabBlk_2_C,"Guanine 2(15N), 1(13C)",0.042876404307804164
+230831_Smp_LabBlk_3_A,"Guanine 2(15N), 1(13C)",0.11799822696641073
+230831_Smp_LabBlk_3_B,"Guanine 2(15N), 1(13C)",2.939709966384741
+230831_Smp_LabBlk_3_C,"Guanine 2(15N), 1(13C)",5.967042485002876
+230831_Smp_LabBlk_4_A,"Guanine 2(15N), 1(13C)",9.52516498552889
+230831_Smp_LabBlk_4_B,"Guanine 2(15N), 1(13C)",11.119151335698223
+230831_Smp_LabBlk_4_C,"Guanine 2(15N), 1(13C)",6.678987887248929
+230831_Smp_LabBlk_5_A,"Guanine 2(15N), 1(13C)",19.511888798906046
+230831_Smp_LabBlk_5_B,"Guanine 2(15N), 1(13C)",2.3911164040350763
+230831_Smp_LabBlk_5_C,"Guanine 2(15N), 1(13C)",1576.2713847868488
+230831_Std_4uMStdsMix1InH2O_1,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_2,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_3,"Homarine 0(15N, 0(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_2,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_3,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_1,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_2,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_3,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_1,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_2,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_3,"Homarine 0(15N, 0(13C)",4
+230831_Std_H2OinMatrix_1,"Homarine 0(15N, 0(13C)",4
+230831_Std_H2OinMatrix_2,"Homarine 0(15N, 0(13C)",4
+230831_Std_H2OinMatrix_3,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full1,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full2,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full3,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full4,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full5,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full6,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full7,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full8,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full9,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full10,"Homarine 0(15N, 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full11,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_1_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_1_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_1_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_1_C_2ndInj,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_2_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_2_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_2_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_3_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_3_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_3_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_4_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_4_B,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_4_C,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_5_A,"Homarine 0(15N, 0(13C)",4
+230831_Smp_LabBlk_5_B,"Homarine 0(15N, 0(13C)",NA
+230831_Smp_LabBlk_5_C,"Homarine 0(15N, 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_1,"Homarine 0(15N, 1(13C)",NA
+230831_Std_4uMStdsMix1InH2O_2,"Homarine 0(15N, 1(13C)",1.14457509353287
+230831_Std_4uMStdsMix1InH2O_3,"Homarine 0(15N, 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Homarine 0(15N, 1(13C)",0.07264192447608095
+230831_Std_4uMStdsMix1InMatrix_2,"Homarine 0(15N, 1(13C)",0.013923836264578894
+230831_Std_4uMStdsMix1InMatrix_3,"Homarine 0(15N, 1(13C)",0.028929311896099832
+230831_Std_4uMStdsMix2InH2O_1,"Homarine 0(15N, 1(13C)",0.3029885816809156
+230831_Std_4uMStdsMix2InH2O_2,"Homarine 0(15N, 1(13C)",0.302410600546298
+230831_Std_4uMStdsMix2InH2O_3,"Homarine 0(15N, 1(13C)",0.30486129038689536
+230831_Std_4uMStdsMix2InMatrix_1,"Homarine 0(15N, 1(13C)",0.3011440092484564
+230831_Std_4uMStdsMix2InMatrix_2,"Homarine 0(15N, 1(13C)",0.3020964204207319
+230831_Std_4uMStdsMix2InMatrix_3,"Homarine 0(15N, 1(13C)",0.30342538690714105
+230831_Std_H2OinMatrix_1,"Homarine 0(15N, 1(13C)",0.08496772079217946
+230831_Std_H2OinMatrix_2,"Homarine 0(15N, 1(13C)",0.057204756414955635
+230831_Std_H2OinMatrix_3,"Homarine 0(15N, 1(13C)",0.09832137794245593
+230831_Poo_G5_NFEX-CatEx_Full1,"Homarine 0(15N, 1(13C)",0.09758235020550686
+230831_Poo_G5_NFEX-CatEx_Full2,"Homarine 0(15N, 1(13C)",0.11534615998622252
+230831_Poo_G5_NFEX-CatEx_Full3,"Homarine 0(15N, 1(13C)",0.1067117784519958
+230831_Poo_G5_NFEX-CatEx_Full4,"Homarine 0(15N, 1(13C)",0.18632264556258743
+230831_Poo_G5_NFEX-CatEx_Full5,"Homarine 0(15N, 1(13C)",0.18105144927276345
+230831_Poo_G5_NFEX-CatEx_Full6,"Homarine 0(15N, 1(13C)",0.1619932525738821
+230831_Poo_G5_NFEX-CatEx_Full7,"Homarine 0(15N, 1(13C)",0.053786630515873735
+230831_Poo_G5_NFEX-CatEx_Full8,"Homarine 0(15N, 1(13C)",0.04475384774213604
+230831_Poo_G5_NFEX-CatEx_Full9,"Homarine 0(15N, 1(13C)",0.08509059140191783
+230831_Poo_G5_NFEX-CatEx_Full10,"Homarine 0(15N, 1(13C)",0.23399712526235025
+230831_Poo_G5_NFEX-CatEx_Full11,"Homarine 0(15N, 1(13C)",0.07436366143964553
+230831_Smp_G5_NFEX_T0_Metab_A,"Homarine 0(15N, 1(13C)",0.20750787158395212
+230831_Smp_G5_NFEX_T0_Metab_B,"Homarine 0(15N, 1(13C)",0.051564484405980306
+230831_Smp_G5_NFEX_T0_Metab_C,"Homarine 0(15N, 1(13C)",0.232679533029995
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Homarine 0(15N, 1(13C)",0.21006363436569386
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Homarine 0(15N, 1(13C)",0.057115084345174975
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Homarine 0(15N, 1(13C)",0.26246146635861206
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Homarine 0(15N, 1(13C)",0.17725284509467043
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Homarine 0(15N, 1(13C)",0.14153155659415048
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Homarine 0(15N, 1(13C)",0.2673005472669007
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Homarine 0(15N, 1(13C)",0.2647360252075083
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Homarine 0(15N, 1(13C)",0.16767575873151871
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Homarine 0(15N, 1(13C)",0.12457256583357948
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Homarine 0(15N, 1(13C)",0.04261248213459022
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Homarine 0(15N, 1(13C)",0.2911440676155497
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Homarine 0(15N, 1(13C)",0.09869760894072567
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Homarine 0(15N, 1(13C)",0.05986527484566008
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Homarine 0(15N, 1(13C)",0.06618806276886637
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Homarine 0(15N, 1(13C)",0.11024013067235071
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Homarine 0(15N, 1(13C)",0.13946454787201004
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Homarine 0(15N, 1(13C)",0.036779285470407756
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Homarine 0(15N, 1(13C)",0.20737171751571373
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Homarine 0(15N, 1(13C)",0.1711174478694601
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Homarine 0(15N, 1(13C)",0.04702581312235938
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Homarine 0(15N, 1(13C)",0.14402785129349843
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Homarine 0(15N, 1(13C)",0.09834627045932039
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Homarine 0(15N, 1(13C)",0.2156154251127323
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Homarine 0(15N, 1(13C)",0.1086458773759932
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Homarine 0(15N, 1(13C)",0.14230268200405127
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Homarine 0(15N, 1(13C)",0.09875304168966119
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_LabBlk_1_A,"Homarine 0(15N, 1(13C)",0.37835270094935586
+230831_Smp_LabBlk_1_B,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_LabBlk_1_C,"Homarine 0(15N, 1(13C)",0.35954430596599424
+230831_Smp_LabBlk_1_C_2ndInj,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_LabBlk_2_A,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_LabBlk_2_B,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_LabBlk_2_C,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_LabBlk_3_A,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_LabBlk_3_B,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_LabBlk_3_C,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_LabBlk_4_A,"Homarine 0(15N, 1(13C)",0.5104213596376829
+230831_Smp_LabBlk_4_B,"Homarine 0(15N, 1(13C)",0.7577299308523762
+230831_Smp_LabBlk_4_C,"Homarine 0(15N, 1(13C)",0.8616313330937837
+230831_Smp_LabBlk_5_A,"Homarine 0(15N, 1(13C)",0.6768660176170608
+230831_Smp_LabBlk_5_B,"Homarine 0(15N, 1(13C)",NA
+230831_Smp_LabBlk_5_C,"Homarine 0(15N, 1(13C)",0.3063431563942859
+230831_Std_4uMStdsMix1InH2O_1,"Homarine 1(15N), 0(13C)",88.66891274914198
+230831_Std_4uMStdsMix1InH2O_2,"Homarine 1(15N), 0(13C)",3.4132371280954925
+230831_Std_4uMStdsMix1InH2O_3,"Homarine 1(15N), 0(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Homarine 1(15N), 0(13C)",0.12859928555952466
+230831_Std_4uMStdsMix1InMatrix_2,"Homarine 1(15N), 0(13C)",0.08943682184439147
+230831_Std_4uMStdsMix1InMatrix_3,"Homarine 1(15N), 0(13C)",0.31670899346712045
+230831_Std_4uMStdsMix2InH2O_1,"Homarine 1(15N), 0(13C)",0.014342162136082654
+230831_Std_4uMStdsMix2InH2O_2,"Homarine 1(15N), 0(13C)",0.013673945482307246
+230831_Std_4uMStdsMix2InH2O_3,"Homarine 1(15N), 0(13C)",0.014110287320978687
+230831_Std_4uMStdsMix2InMatrix_1,"Homarine 1(15N), 0(13C)",0.012564527302401218
+230831_Std_4uMStdsMix2InMatrix_2,"Homarine 1(15N), 0(13C)",0.01414441471060314
+230831_Std_4uMStdsMix2InMatrix_3,"Homarine 1(15N), 0(13C)",0.014658142631133294
+230831_Std_H2OinMatrix_1,"Homarine 1(15N), 0(13C)",0.11765991063601897
+230831_Std_H2OinMatrix_2,"Homarine 1(15N), 0(13C)",0.1340511230651724
+230831_Std_H2OinMatrix_3,"Homarine 1(15N), 0(13C)",0.3603409567963203
+230831_Poo_G5_NFEX-CatEx_Full1,"Homarine 1(15N), 0(13C)",0.45784832338267933
+230831_Poo_G5_NFEX-CatEx_Full2,"Homarine 1(15N), 0(13C)",0.2610465726003984
+230831_Poo_G5_NFEX-CatEx_Full3,"Homarine 1(15N), 0(13C)",0.11712231843740407
+230831_Poo_G5_NFEX-CatEx_Full4,"Homarine 1(15N), 0(13C)",0.07906971693725422
+230831_Poo_G5_NFEX-CatEx_Full5,"Homarine 1(15N), 0(13C)",0.4262513588942941
+230831_Poo_G5_NFEX-CatEx_Full6,"Homarine 1(15N), 0(13C)",0.053872743653468176
+230831_Poo_G5_NFEX-CatEx_Full7,"Homarine 1(15N), 0(13C)",0.12862194740042915
+230831_Poo_G5_NFEX-CatEx_Full8,"Homarine 1(15N), 0(13C)",1.1678705483963503
+230831_Poo_G5_NFEX-CatEx_Full9,"Homarine 1(15N), 0(13C)",0.09623940933821308
+230831_Poo_G5_NFEX-CatEx_Full10,"Homarine 1(15N), 0(13C)",0.28014477256377124
+230831_Poo_G5_NFEX-CatEx_Full11,"Homarine 1(15N), 0(13C)",0.1969408462914274
+230831_Smp_G5_NFEX_T0_Metab_A,"Homarine 1(15N), 0(13C)",0.02837531766749551
+230831_Smp_G5_NFEX_T0_Metab_B,"Homarine 1(15N), 0(13C)",0.32831419415466784
+230831_Smp_G5_NFEX_T0_Metab_C,"Homarine 1(15N), 0(13C)",0.11433069027170342
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Homarine 1(15N), 0(13C)",0.16559526052498863
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Homarine 1(15N), 0(13C)",0.08260573257767381
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Homarine 1(15N), 0(13C)",0.28072744397834126
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Homarine 1(15N), 0(13C)",0.16911038890833247
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Homarine 1(15N), 0(13C)",0.07581520428791336
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Homarine 1(15N), 0(13C)",0.5345324392710827
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Homarine 1(15N), 0(13C)",2.2698020760068025
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Homarine 1(15N), 0(13C)",0.21803470204262732
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Homarine 1(15N), 0(13C)",0.6489909586141422
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Homarine 1(15N), 0(13C)",0.34032822006173846
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Homarine 1(15N), 0(13C)",0.07032006329082922
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Homarine 1(15N), 0(13C)",3.2218389858697907
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Homarine 1(15N), 0(13C)",0.5392461644842537
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Homarine 1(15N), 0(13C)",0.03016667537488897
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Homarine 1(15N), 0(13C)",0.18866983739282364
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Homarine 1(15N), 0(13C)",0.13849936899457854
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Homarine 1(15N), 0(13C)",0.22245124996600232
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Homarine 1(15N), 0(13C)",0.05105920502246933
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Homarine 1(15N), 0(13C)",0.06141794890146876
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Homarine 1(15N), 0(13C)",0.6190069588339416
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Homarine 1(15N), 0(13C)",0.7838149741700533
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Homarine 1(15N), 0(13C)",0.07031652974700266
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Homarine 1(15N), 0(13C)",0.6819625064990696
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Homarine 1(15N), 0(13C)",0.13340654843916022
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Homarine 1(15N), 0(13C)",0.32244819916806344
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Homarine 1(15N), 0(13C)",1.2392760013271322
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Homarine 1(15N), 0(13C)",3.883573538741533
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Homarine 1(15N), 0(13C)",105.87604409839827
+230831_Smp_LabBlk_1_A,"Homarine 1(15N), 0(13C)",47.30951553781471
+230831_Smp_LabBlk_1_B,"Homarine 1(15N), 0(13C)",12.288111906464671
+230831_Smp_LabBlk_1_C,"Homarine 1(15N), 0(13C)",134.97764358216625
+230831_Smp_LabBlk_1_C_2ndInj,"Homarine 1(15N), 0(13C)",805.3854039135938
+230831_Smp_LabBlk_2_A,"Homarine 1(15N), 0(13C)",0.5265550559109365
+230831_Smp_LabBlk_2_B,"Homarine 1(15N), 0(13C)",3.759644819993197
+230831_Smp_LabBlk_2_C,"Homarine 1(15N), 0(13C)",3.7763032149876485
+230831_Smp_LabBlk_3_A,"Homarine 1(15N), 0(13C)",197.74970986586814
+230831_Smp_LabBlk_3_B,"Homarine 1(15N), 0(13C)",9.843115561210379
+230831_Smp_LabBlk_3_C,"Homarine 1(15N), 0(13C)",10.744099791125773
+230831_Smp_LabBlk_4_A,"Homarine 1(15N), 0(13C)",2.7014914755886466
+230831_Smp_LabBlk_4_B,"Homarine 1(15N), 0(13C)",2.8775280224579745
+230831_Smp_LabBlk_4_C,"Homarine 1(15N), 0(13C)",13.046640316205533
+230831_Smp_LabBlk_5_A,"Homarine 1(15N), 0(13C)",2.8342394740169428
+230831_Smp_LabBlk_5_B,"Homarine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_5_C,"Homarine 1(15N), 0(13C)",8.700752998047783
+230831_Std_4uMStdsMix1InH2O_1,"Homarine 1(15N), 1(13C)",57.19550363676438
+230831_Std_4uMStdsMix1InH2O_2,"Homarine 1(15N), 1(13C)",15.251647960092642
+230831_Std_4uMStdsMix1InH2O_3,"Homarine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"Homarine 1(15N), 1(13C)",0.13726696227349003
+230831_Std_4uMStdsMix1InMatrix_2,"Homarine 1(15N), 1(13C)",0.141465604360349
+230831_Std_4uMStdsMix1InMatrix_3,"Homarine 1(15N), 1(13C)",0.09630669326761335
+230831_Std_4uMStdsMix2InH2O_1,"Homarine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_2,"Homarine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_3,"Homarine 1(15N), 1(13C)",0.0017233212997506773
+230831_Std_4uMStdsMix2InMatrix_1,"Homarine 1(15N), 1(13C)",0.0028732998675898612
+230831_Std_4uMStdsMix2InMatrix_2,"Homarine 1(15N), 1(13C)",0.002791899186002103
+230831_Std_4uMStdsMix2InMatrix_3,"Homarine 1(15N), 1(13C)",NA
+230831_Std_H2OinMatrix_1,"Homarine 1(15N), 1(13C)",5.1774911475305005
+230831_Std_H2OinMatrix_2,"Homarine 1(15N), 1(13C)",4.142508740054358
+230831_Std_H2OinMatrix_3,"Homarine 1(15N), 1(13C)",2.9568230906358566
+230831_Poo_G5_NFEX-CatEx_Full1,"Homarine 1(15N), 1(13C)",3.620845774158742
+230831_Poo_G5_NFEX-CatEx_Full2,"Homarine 1(15N), 1(13C)",2.9080412602004913
+230831_Poo_G5_NFEX-CatEx_Full3,"Homarine 1(15N), 1(13C)",1.3143943143843315
+230831_Poo_G5_NFEX-CatEx_Full4,"Homarine 1(15N), 1(13C)",3.6224810564587204
+230831_Poo_G5_NFEX-CatEx_Full5,"Homarine 1(15N), 1(13C)",3.4744428717990696
+230831_Poo_G5_NFEX-CatEx_Full6,"Homarine 1(15N), 1(13C)",3.3244573985394053
+230831_Poo_G5_NFEX-CatEx_Full7,"Homarine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full8,"Homarine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full9,"Homarine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full10,"Homarine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full11,"Homarine 1(15N), 1(13C)",4.231095485263566
+230831_Smp_G5_NFEX_T0_Metab_A,"Homarine 1(15N), 1(13C)",4.080219265675129
+230831_Smp_G5_NFEX_T0_Metab_B,"Homarine 1(15N), 1(13C)",4.617559331552075
+230831_Smp_G5_NFEX_T0_Metab_C,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Homarine 1(15N), 1(13C)",1.3966605764888531
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Homarine 1(15N), 1(13C)",5.7488792707985485
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Homarine 1(15N), 1(13C)",2.16252972243664
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Homarine 1(15N), 1(13C)",3.407642307448214
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Homarine 1(15N), 1(13C)",3.315272730987839
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Homarine 1(15N), 1(13C)",2.843309154982866
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Homarine 1(15N), 1(13C)",7.207027398592641
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Homarine 1(15N), 1(13C)",5.92572954192325
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Homarine 1(15N), 1(13C)",6.720376309992466
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Homarine 1(15N), 1(13C)",9.22150721911629
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Homarine 1(15N), 1(13C)",5.611063659786646
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Homarine 1(15N), 1(13C)",2.2074704903573457
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Homarine 1(15N), 1(13C)",4.6597086946659685
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Homarine 1(15N), 1(13C)",2.6184803772774723
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Homarine 1(15N), 1(13C)",6.5307460986683665
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Homarine 1(15N), 1(13C)",8.224962121019706
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Homarine 1(15N), 1(13C)",3.435222583638927
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Homarine 1(15N), 1(13C)",27.162363027916516
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Homarine 1(15N), 1(13C)",4.457021120750262
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Homarine 1(15N), 1(13C)",1.894683715620412
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Homarine 1(15N), 1(13C)",3.013307362852413
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Homarine 1(15N), 1(13C)",3.037137365642331
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Homarine 1(15N), 1(13C)",22.485026947009555
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_A,"Homarine 1(15N), 1(13C)",28.631750600880583
+230831_Smp_LabBlk_1_B,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_C,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_C_2ndInj,"Homarine 1(15N), 1(13C)",313.861550911996
+230831_Smp_LabBlk_2_A,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_B,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_C,"Homarine 1(15N), 1(13C)",54.92778448944265
+230831_Smp_LabBlk_3_A,"Homarine 1(15N), 1(13C)",83.33725845311923
+230831_Smp_LabBlk_3_B,"Homarine 1(15N), 1(13C)",240.57996348951707
+230831_Smp_LabBlk_3_C,"Homarine 1(15N), 1(13C)",358.3127647529623
+230831_Smp_LabBlk_4_A,"Homarine 1(15N), 1(13C)",22.011666231949352
+230831_Smp_LabBlk_4_B,"Homarine 1(15N), 1(13C)",133.2360687875494
+230831_Smp_LabBlk_4_C,"Homarine 1(15N), 1(13C)",184.77579590370104
+230831_Smp_LabBlk_5_A,"Homarine 1(15N), 1(13C)",376.7248282547309
+230831_Smp_LabBlk_5_B,"Homarine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_C,"Homarine 1(15N), 1(13C)",254.75746025843637
+230831_Std_4uMStdsMix1InH2O_1,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_2,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_3,"L-Glutamic acid 0(15N), 0(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_2,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_3,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_1,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_2,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_3,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_1,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_2,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_3,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_1,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_2,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_3,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full1,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full2,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full3,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full4,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full5,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full6,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full7,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full8,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full9,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full10,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full11,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L-Glutamic acid 0(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_C_2ndInj,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_A,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_B,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_C,"L-Glutamic acid 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_1,"L-Glutamic acid 0(15N), 1(13C)",0.2132058661244728
+230831_Std_4uMStdsMix1InH2O_2,"L-Glutamic acid 0(15N), 1(13C)",0.21693938870228213
+230831_Std_4uMStdsMix1InH2O_3,"L-Glutamic acid 0(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"L-Glutamic acid 0(15N), 1(13C)",0.22404786211322533
+230831_Std_4uMStdsMix1InMatrix_2,"L-Glutamic acid 0(15N), 1(13C)",0.224813169275828
+230831_Std_4uMStdsMix1InMatrix_3,"L-Glutamic acid 0(15N), 1(13C)",61.81819688987016
+230831_Std_4uMStdsMix2InH2O_1,"L-Glutamic acid 0(15N), 1(13C)",0.21819459864464005
+230831_Std_4uMStdsMix2InH2O_2,"L-Glutamic acid 0(15N), 1(13C)",0.21763908858097036
+230831_Std_4uMStdsMix2InH2O_3,"L-Glutamic acid 0(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InMatrix_1,"L-Glutamic acid 0(15N), 1(13C)",0.22142660690098317
+230831_Std_4uMStdsMix2InMatrix_2,"L-Glutamic acid 0(15N), 1(13C)",0.22660786266536975
+230831_Std_4uMStdsMix2InMatrix_3,"L-Glutamic acid 0(15N), 1(13C)",1.09686013320647
+230831_Std_H2OinMatrix_1,"L-Glutamic acid 0(15N), 1(13C)",0.25004462421407164
+230831_Std_H2OinMatrix_2,"L-Glutamic acid 0(15N), 1(13C)",0.15428077418693628
+230831_Std_H2OinMatrix_3,"L-Glutamic acid 0(15N), 1(13C)",0.6670395129080424
+230831_Poo_G5_NFEX-CatEx_Full1,"L-Glutamic acid 0(15N), 1(13C)",0.15496236847237885
+230831_Poo_G5_NFEX-CatEx_Full2,"L-Glutamic acid 0(15N), 1(13C)",0.1976443907686214
+230831_Poo_G5_NFEX-CatEx_Full3,"L-Glutamic acid 0(15N), 1(13C)",0.2635243061170009
+230831_Poo_G5_NFEX-CatEx_Full4,"L-Glutamic acid 0(15N), 1(13C)",0.16971229372539068
+230831_Poo_G5_NFEX-CatEx_Full5,"L-Glutamic acid 0(15N), 1(13C)",1.058950718622405
+230831_Poo_G5_NFEX-CatEx_Full6,"L-Glutamic acid 0(15N), 1(13C)",1.095355875178379
+230831_Poo_G5_NFEX-CatEx_Full7,"L-Glutamic acid 0(15N), 1(13C)",0.18415624572449124
+230831_Poo_G5_NFEX-CatEx_Full8,"L-Glutamic acid 0(15N), 1(13C)",0.1683617885058968
+230831_Poo_G5_NFEX-CatEx_Full9,"L-Glutamic acid 0(15N), 1(13C)",0.23297398753232862
+230831_Poo_G5_NFEX-CatEx_Full10,"L-Glutamic acid 0(15N), 1(13C)",0.19839248232483866
+230831_Poo_G5_NFEX-CatEx_Full11,"L-Glutamic acid 0(15N), 1(13C)",10.827590161114616
+230831_Smp_G5_NFEX_T0_Metab_A,"L-Glutamic acid 0(15N), 1(13C)",0.17924623121339125
+230831_Smp_G5_NFEX_T0_Metab_B,"L-Glutamic acid 0(15N), 1(13C)",0.14603223229920093
+230831_Smp_G5_NFEX_T0_Metab_C,"L-Glutamic acid 0(15N), 1(13C)",0.21305392543182045
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L-Glutamic acid 0(15N), 1(13C)",0.17509099182861548
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L-Glutamic acid 0(15N), 1(13C)",0.03887793140191531
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L-Glutamic acid 0(15N), 1(13C)",0.15600865644748932
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L-Glutamic acid 0(15N), 1(13C)",0.07879238599439752
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L-Glutamic acid 0(15N), 1(13C)",0.18393613012411844
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L-Glutamic acid 0(15N), 1(13C)",0.06251317429157248
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L-Glutamic acid 0(15N), 1(13C)",0.24784802289498006
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L-Glutamic acid 0(15N), 1(13C)",0.060889346903449486
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L-Glutamic acid 0(15N), 1(13C)",0.09400329154091301
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L-Glutamic acid 0(15N), 1(13C)",0.23749953886449995
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L-Glutamic acid 0(15N), 1(13C)",0.23235766115491166
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L-Glutamic acid 0(15N), 1(13C)",0.05427633167432703
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L-Glutamic acid 0(15N), 1(13C)",0.07617638054414065
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L-Glutamic acid 0(15N), 1(13C)",0.017439442179854645
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L-Glutamic acid 0(15N), 1(13C)",0.08224449405523689
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L-Glutamic acid 0(15N), 1(13C)",0.07577259960134307
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L-Glutamic acid 0(15N), 1(13C)",0.1465808494495811
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L-Glutamic acid 0(15N), 1(13C)",0.09170416042326433
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L-Glutamic acid 0(15N), 1(13C)",0.056823027484459436
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L-Glutamic acid 0(15N), 1(13C)",0.04463103051264968
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L-Glutamic acid 0(15N), 1(13C)",0.0717528221601419
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L-Glutamic acid 0(15N), 1(13C)",1.225630512572195
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L-Glutamic acid 0(15N), 1(13C)",0.17877307055824412
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L-Glutamic acid 0(15N), 1(13C)",0.24014622295740373
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L-Glutamic acid 0(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L-Glutamic acid 0(15N), 1(13C)",0.07220472779554578
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L-Glutamic acid 0(15N), 1(13C)",0.010567440956124947
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L-Glutamic acid 0(15N), 1(13C)",0.18963624255296171
+230831_Smp_LabBlk_1_A,"L-Glutamic acid 0(15N), 1(13C)",0.11280533033635706
+230831_Smp_LabBlk_1_B,"L-Glutamic acid 0(15N), 1(13C)",0.15313777985317614
+230831_Smp_LabBlk_1_C,"L-Glutamic acid 0(15N), 1(13C)",0.019283949927572954
+230831_Smp_LabBlk_1_C_2ndInj,"L-Glutamic acid 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_A,"L-Glutamic acid 0(15N), 1(13C)",0.1719975032140271
+230831_Smp_LabBlk_2_B,"L-Glutamic acid 0(15N), 1(13C)",0.0985593505707961
+230831_Smp_LabBlk_2_C,"L-Glutamic acid 0(15N), 1(13C)",0.12851420815934703
+230831_Smp_LabBlk_3_A,"L-Glutamic acid 0(15N), 1(13C)",0.08784575101166389
+230831_Smp_LabBlk_3_B,"L-Glutamic acid 0(15N), 1(13C)",0.02495121011894585
+230831_Smp_LabBlk_3_C,"L-Glutamic acid 0(15N), 1(13C)",0.1078301441107734
+230831_Smp_LabBlk_4_A,"L-Glutamic acid 0(15N), 1(13C)",0.010004263123180129
+230831_Smp_LabBlk_4_B,"L-Glutamic acid 0(15N), 1(13C)",0.050973021595887055
+230831_Smp_LabBlk_4_C,"L-Glutamic acid 0(15N), 1(13C)",0.016605491837293627
+230831_Smp_LabBlk_5_A,"L-Glutamic acid 0(15N), 1(13C)",0.04526956596114002
+230831_Smp_LabBlk_5_B,"L-Glutamic acid 0(15N), 1(13C)",0.14104232666510066
+230831_Smp_LabBlk_5_C,"L-Glutamic acid 0(15N), 1(13C)",0.022089600530852366
+230831_Std_4uMStdsMix1InH2O_1,"L-Glutamic acid 1(15N), 0(13C)",0.0018119319603802076
+230831_Std_4uMStdsMix1InH2O_2,"L-Glutamic acid 1(15N), 0(13C)",0.0019990819994825373
+230831_Std_4uMStdsMix1InH2O_3,"L-Glutamic acid 1(15N), 0(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"L-Glutamic acid 1(15N), 0(13C)",0.010327566486299048
+230831_Std_4uMStdsMix1InMatrix_2,"L-Glutamic acid 1(15N), 0(13C)",0.00621639958764249
+230831_Std_4uMStdsMix1InMatrix_3,"L-Glutamic acid 1(15N), 0(13C)",1.323617697930034
+230831_Std_4uMStdsMix2InH2O_1,"L-Glutamic acid 1(15N), 0(13C)",0.0011829482828581129
+230831_Std_4uMStdsMix2InH2O_2,"L-Glutamic acid 1(15N), 0(13C)",0.002501331975545776
+230831_Std_4uMStdsMix2InH2O_3,"L-Glutamic acid 1(15N), 0(13C)",0.9001989319857879
+230831_Std_4uMStdsMix2InMatrix_1,"L-Glutamic acid 1(15N), 0(13C)",0.0011838051846195406
+230831_Std_4uMStdsMix2InMatrix_2,"L-Glutamic acid 1(15N), 0(13C)",0.00286139051806169
+230831_Std_4uMStdsMix2InMatrix_3,"L-Glutamic acid 1(15N), 0(13C)",26.34037424674913
+230831_Std_H2OinMatrix_1,"L-Glutamic acid 1(15N), 0(13C)",0.1053887700454472
+230831_Std_H2OinMatrix_2,"L-Glutamic acid 1(15N), 0(13C)",0.19961558357567352
+230831_Std_H2OinMatrix_3,"L-Glutamic acid 1(15N), 0(13C)",0.9209794600412593
+230831_Poo_G5_NFEX-CatEx_Full1,"L-Glutamic acid 1(15N), 0(13C)",0.040112225251317114
+230831_Poo_G5_NFEX-CatEx_Full2,"L-Glutamic acid 1(15N), 0(13C)",0.235072333506199
+230831_Poo_G5_NFEX-CatEx_Full3,"L-Glutamic acid 1(15N), 0(13C)",0.1867255621481125
+230831_Poo_G5_NFEX-CatEx_Full4,"L-Glutamic acid 1(15N), 0(13C)",0.7120537347678797
+230831_Poo_G5_NFEX-CatEx_Full5,"L-Glutamic acid 1(15N), 0(13C)",0.21947527922910687
+230831_Poo_G5_NFEX-CatEx_Full6,"L-Glutamic acid 1(15N), 0(13C)",0.05400174816623317
+230831_Poo_G5_NFEX-CatEx_Full7,"L-Glutamic acid 1(15N), 0(13C)",0.029402171073667677
+230831_Poo_G5_NFEX-CatEx_Full8,"L-Glutamic acid 1(15N), 0(13C)",0.09053998523121927
+230831_Poo_G5_NFEX-CatEx_Full9,"L-Glutamic acid 1(15N), 0(13C)",0.11984770286745333
+230831_Poo_G5_NFEX-CatEx_Full10,"L-Glutamic acid 1(15N), 0(13C)",0.04972803346107165
+230831_Poo_G5_NFEX-CatEx_Full11,"L-Glutamic acid 1(15N), 0(13C)",25.059400263746344
+230831_Smp_G5_NFEX_T0_Metab_A,"L-Glutamic acid 1(15N), 0(13C)",0.052233144838270934
+230831_Smp_G5_NFEX_T0_Metab_B,"L-Glutamic acid 1(15N), 0(13C)",0.013602214583895114
+230831_Smp_G5_NFEX_T0_Metab_C,"L-Glutamic acid 1(15N), 0(13C)",0.03687634989096719
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L-Glutamic acid 1(15N), 0(13C)",0.0893610098344267
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L-Glutamic acid 1(15N), 0(13C)",0.03788010147780586
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L-Glutamic acid 1(15N), 0(13C)",0.05845614731855902
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L-Glutamic acid 1(15N), 0(13C)",0.07393402735528264
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L-Glutamic acid 1(15N), 0(13C)",0.04737727853584165
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L-Glutamic acid 1(15N), 0(13C)",0.17605523708856316
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L-Glutamic acid 1(15N), 0(13C)",0.021205330087778765
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L-Glutamic acid 1(15N), 0(13C)",0.018669764902702873
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L-Glutamic acid 1(15N), 0(13C)",0.05583065231241211
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L-Glutamic acid 1(15N), 0(13C)",0.15628066551075367
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L-Glutamic acid 1(15N), 0(13C)",2.4148955063619866
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L-Glutamic acid 1(15N), 0(13C)",0.0550473941262465
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L-Glutamic acid 1(15N), 0(13C)",0.04153667317509293
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L-Glutamic acid 1(15N), 0(13C)",0.11178838731796101
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L-Glutamic acid 1(15N), 0(13C)",0.12076680199249128
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L-Glutamic acid 1(15N), 0(13C)",0.01527834460883901
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L-Glutamic acid 1(15N), 0(13C)",0.22485141867129285
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L-Glutamic acid 1(15N), 0(13C)",0.0169840549005957
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L-Glutamic acid 1(15N), 0(13C)",0.09311647903807686
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L-Glutamic acid 1(15N), 0(13C)",0.23353603699381179
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L-Glutamic acid 1(15N), 0(13C)",0.15032480532233142
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L-Glutamic acid 1(15N), 0(13C)",0.5045863198576283
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L-Glutamic acid 1(15N), 0(13C)",0.01763833298345468
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L-Glutamic acid 1(15N), 0(13C)",0.02724011911896959
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L-Glutamic acid 1(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L-Glutamic acid 1(15N), 0(13C)",0.041439235082661056
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L-Glutamic acid 1(15N), 0(13C)",0.07500258231509105
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L-Glutamic acid 1(15N), 0(13C)",0.7053042711351896
+230831_Smp_LabBlk_1_A,"L-Glutamic acid 1(15N), 0(13C)",0.20845596853174922
+230831_Smp_LabBlk_1_B,"L-Glutamic acid 1(15N), 0(13C)",0.10225004320753744
+230831_Smp_LabBlk_1_C,"L-Glutamic acid 1(15N), 0(13C)",0.07491510273466961
+230831_Smp_LabBlk_1_C_2ndInj,"L-Glutamic acid 1(15N), 0(13C)",4.073743970071867
+230831_Smp_LabBlk_2_A,"L-Glutamic acid 1(15N), 0(13C)",0.08426035905653817
+230831_Smp_LabBlk_2_B,"L-Glutamic acid 1(15N), 0(13C)",0.13136232275687043
+230831_Smp_LabBlk_2_C,"L-Glutamic acid 1(15N), 0(13C)",0.06061225840927254
+230831_Smp_LabBlk_3_A,"L-Glutamic acid 1(15N), 0(13C)",1.1819090692692216
+230831_Smp_LabBlk_3_B,"L-Glutamic acid 1(15N), 0(13C)",0.10889192290935491
+230831_Smp_LabBlk_3_C,"L-Glutamic acid 1(15N), 0(13C)",0.0628652415851767
+230831_Smp_LabBlk_4_A,"L-Glutamic acid 1(15N), 0(13C)",0.08087466417850421
+230831_Smp_LabBlk_4_B,"L-Glutamic acid 1(15N), 0(13C)",0.0034778340894372167
+230831_Smp_LabBlk_4_C,"L-Glutamic acid 1(15N), 0(13C)",0.03412584408956561
+230831_Smp_LabBlk_5_A,"L-Glutamic acid 1(15N), 0(13C)",0.03917954159002319
+230831_Smp_LabBlk_5_B,"L-Glutamic acid 1(15N), 0(13C)",0.12899887628322743
+230831_Smp_LabBlk_5_C,"L-Glutamic acid 1(15N), 0(13C)",0.04031434357061282
+230831_Std_4uMStdsMix1InH2O_1,"L-Glutamic acid 1(15N), 1(13C)",0.0014845559569940153
+230831_Std_4uMStdsMix1InH2O_2,"L-Glutamic acid 1(15N), 1(13C)",2.587313049437369e-4
+230831_Std_4uMStdsMix1InH2O_3,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"L-Glutamic acid 1(15N), 1(13C)",3.414886927358688e-4
+230831_Std_4uMStdsMix1InMatrix_2,"L-Glutamic acid 1(15N), 1(13C)",0.0012447817051563712
+230831_Std_4uMStdsMix1InMatrix_3,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_1,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_2,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_3,"L-Glutamic acid 1(15N), 1(13C)",0.05827288397042887
+230831_Std_4uMStdsMix2InMatrix_1,"L-Glutamic acid 1(15N), 1(13C)",9.356524137825971e-5
+230831_Std_4uMStdsMix2InMatrix_2,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InMatrix_3,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Std_H2OinMatrix_1,"L-Glutamic acid 1(15N), 1(13C)",0.006111154051684015
+230831_Std_H2OinMatrix_2,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Std_H2OinMatrix_3,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full1,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full2,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full3,"L-Glutamic acid 1(15N), 1(13C)",0.005668880320044438
+230831_Poo_G5_NFEX-CatEx_Full4,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full5,"L-Glutamic acid 1(15N), 1(13C)",0.01985578358614488
+230831_Poo_G5_NFEX-CatEx_Full6,"L-Glutamic acid 1(15N), 1(13C)",0.045252410108739344
+230831_Poo_G5_NFEX-CatEx_Full7,"L-Glutamic acid 1(15N), 1(13C)",0.008463304969617747
+230831_Poo_G5_NFEX-CatEx_Full8,"L-Glutamic acid 1(15N), 1(13C)",0.003215764257431446
+230831_Poo_G5_NFEX-CatEx_Full9,"L-Glutamic acid 1(15N), 1(13C)",0.00299928707422323
+230831_Poo_G5_NFEX-CatEx_Full10,"L-Glutamic acid 1(15N), 1(13C)",0.004434608865965237
+230831_Poo_G5_NFEX-CatEx_Full11,"L-Glutamic acid 1(15N), 1(13C)",0.1247921564130497
+230831_Smp_G5_NFEX_T0_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T0_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",0.0022651868640495344
+230831_Smp_G5_NFEX_T0_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",0.018754023013800265
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",0.0028587214742562773
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",0.04429394950804117
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",0.0023940423120229573
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",0.001764540612043068
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",0.11407877424035612
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",0.09737383656173716
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",0.0018984265421586263
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",0.001588920806640127
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",0.00500635675561733
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",0.014557808343452766
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",0.006763136460862748
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",0.015150528836379696
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",0.001609337164941927
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",0.005609395981310114
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L-Glutamic acid 1(15N), 1(13C)",0.35590993358411777
+230831_Smp_LabBlk_1_A,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_B,"L-Glutamic acid 1(15N), 1(13C)",0.0037562513083470497
+230831_Smp_LabBlk_1_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_C_2ndInj,"L-Glutamic acid 1(15N), 1(13C)",0.2680405604961769
+230831_Smp_LabBlk_2_A,"L-Glutamic acid 1(15N), 1(13C)",0.0038493889360905736
+230831_Smp_LabBlk_2_B,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_A,"L-Glutamic acid 1(15N), 1(13C)",0.11861937633896691
+230831_Smp_LabBlk_3_B,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_4_A,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_4_B,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_4_C,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_A,"L-Glutamic acid 1(15N), 1(13C)",0.00477190088152132
+230831_Smp_LabBlk_5_B,"L-Glutamic acid 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_C,"L-Glutamic acid 1(15N), 1(13C)",0.006217498659844556
+230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_1,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_2,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_H2OinMatrix_3,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 0(15N), 0(13C)",4
+230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_2_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_3_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_4_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_A,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_B,"L- Glutamine 0(15N), 0(13C)",4
+230831_Smp_LabBlk_5_C,"L- Glutamine 0(15N), 0(13C)",4
+230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 0(15N), 1(13C)",0.22703617377874455
+230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 0(15N), 1(13C)",0.22112206006144117
+230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 0(15N), 1(13C)",0.22218296046985006
+230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 0(15N), 1(13C)",0.2215516350524899
+230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 0(15N), 1(13C)",0.22002309074028772
+230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 0(15N), 1(13C)",0.20395164880320515
+230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Std_H2OinMatrix_1,"L- Glutamine 0(15N), 1(13C)",0.01745146833625628
+230831_Std_H2OinMatrix_2,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Std_H2OinMatrix_3,"L- Glutamine 0(15N), 1(13C)",0.2634867939266709
+230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 0(15N), 1(13C)",0.15119670260473048
+230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 0(15N), 1(13C)",0.0744224140258665
+230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 0(15N), 1(13C)",0.1908711777288746
+230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 0(15N), 1(13C)",0.08897618707521902
+230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 0(15N), 1(13C)",0.1435337395923106
+230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 0(15N), 1(13C)",0.8637735806708637
+230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 0(15N), 1(13C)",0.3058703433516544
+230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 0(15N), 1(13C)",1.1402758503497692
+230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 0(15N), 1(13C)",1.0516088410265318
+230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 0(15N), 1(13C)",2.211607167974794
+230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 0(15N), 1(13C)",0.36678693505507026
+230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 0(15N), 1(13C)",0.06733319542430621
+230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 0(15N), 1(13C)",0.08238312460629414
+230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 0(15N), 1(13C)",0.13181401178947855
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 0(15N), 1(13C)",0.045305514157973174
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 0(15N), 1(13C)",0.07795064743944716
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 0(15N), 1(13C)",0.009940538945617737
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 0(15N), 1(13C)",1.6055911544755235
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 0(15N), 1(13C)",0.17119474482502756
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 0(15N), 1(13C)",0.9591974910272523
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 0(15N), 1(13C)",0.652971964952586
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 0(15N), 1(13C)",0.96485828570203
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 0(15N), 1(13C)",3.433680579510176
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 0(15N), 1(13C)",0.1046760454488976
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 0(15N), 1(13C)",0.09775793830468388
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 0(15N), 1(13C)",0.09515886903225189
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 0(15N), 1(13C)",0.01718713568934767
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 0(15N), 1(13C)",0.020729001943226133
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 0(15N), 1(13C)",0.06347640802806286
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 0(15N), 1(13C)",1.954018628566612
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 0(15N), 1(13C)",0.9238038600854193
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 0(15N), 1(13C)",1.0828004707570353
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 0(15N), 1(13C)",1.0870847183878904
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 0(15N), 1(13C)",0.2553663035534055
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_A,"L- Glutamine 0(15N), 1(13C)",0.11583516041676796
+230831_Smp_LabBlk_1_B,"L- Glutamine 0(15N), 1(13C)",0.10349733925868004
+230831_Smp_LabBlk_1_C,"L- Glutamine 0(15N), 1(13C)",0.36998981764324723
+230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_A,"L- Glutamine 0(15N), 1(13C)",0.15038415408913325
+230831_Smp_LabBlk_2_B,"L- Glutamine 0(15N), 1(13C)",0.04025638988656462
+230831_Smp_LabBlk_2_C,"L- Glutamine 0(15N), 1(13C)",0.1887523536902598
+230831_Smp_LabBlk_3_A,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_B,"L- Glutamine 0(15N), 1(13C)",0.13273255751131857
+230831_Smp_LabBlk_3_C,"L- Glutamine 0(15N), 1(13C)",0.01230352456472049
+230831_Smp_LabBlk_4_A,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_4_B,"L- Glutamine 0(15N), 1(13C)",0.01445787626960502
+230831_Smp_LabBlk_4_C,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_A,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_B,"L- Glutamine 0(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_C,"L- Glutamine 0(15N), 1(13C)",0.15894920608529386
+230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 1(15N), 0(13C)",0.026153029555926115
+230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 1(15N), 0(13C)",0.02479748941000792
+230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 1(15N), 0(13C)",0.02960827843348926
+230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 1(15N), 0(13C)",0.028132927609345056
+230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 1(15N), 0(13C)",0.02502499034301077
+230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 1(15N), 0(13C)",20.95415996073463
+230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 1(15N), 0(13C)",0.42489615284490273
+230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 1(15N), 0(13C)",0.3980203784570597
+230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 1(15N), 0(13C)",0.6883284004632608
+230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 1(15N), 0(13C)",1.3311416915149776
+230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 1(15N), 0(13C)",1.8495176848874597
+230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 1(15N), 0(13C)",NA
+230831_Std_H2OinMatrix_1,"L- Glutamine 1(15N), 0(13C)",0.014200092093170299
+230831_Std_H2OinMatrix_2,"L- Glutamine 1(15N), 0(13C)",2.6356534694409355
+230831_Std_H2OinMatrix_3,"L- Glutamine 1(15N), 0(13C)",3.517844065810672
+230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 1(15N), 0(13C)",0.6538129230588996
+230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 1(15N), 0(13C)",0.03776021744413144
+230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 1(15N), 0(13C)",4.159200381650021
+230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 1(15N), 0(13C)",0.7185615397882755
+230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 1(15N), 0(13C)",0.6365324231664451
+230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 1(15N), 0(13C)",6.781671884994782
+230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 1(15N), 0(13C)",2.0013950045706914
+230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 1(15N), 0(13C)",0.25138066781840324
+230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 1(15N), 0(13C)",6.03992791697425
+230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 1(15N), 0(13C)",0.39620783751090105
+230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 1(15N), 0(13C)",2.0438599822762376
+230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 1(15N), 0(13C)",0.08087619305797182
+230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 1(15N), 0(13C)",0.013881942509714675
+230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 1(15N), 0(13C)",0.021113446690344748
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 1(15N), 0(13C)",3.0668970373888405
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 1(15N), 0(13C)",18.024087550514512
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 1(15N), 0(13C)",17.46491993294242
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 1(15N), 0(13C)",0.026969508503806805
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 1(15N), 0(13C)",0.3440334001131689
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 1(15N), 0(13C)",0.15527208843010376
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 1(15N), 0(13C)",0.5349637127362069
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 1(15N), 0(13C)",0.8609013702712185
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 1(15N), 0(13C)",0.029356753025232715
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 1(15N), 0(13C)",0.10788088063398783
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 1(15N), 0(13C)",121.49447395653674
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 1(15N), 0(13C)",4.466955669377217
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 1(15N), 0(13C)",0.17879224981482203
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 1(15N), 0(13C)",0.46409451922718387
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 1(15N), 0(13C)",0.40406184561544417
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 1(15N), 0(13C)",8.691248462632936
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 1(15N), 0(13C)",0.32139580374689247
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 1(15N), 0(13C)",0.336587121933199
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 1(15N), 0(13C)",6.814744168302736
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 1(15N), 0(13C)",6.184131608259789
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 1(15N), 0(13C)",11.306369997628684
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 1(15N), 0(13C)",0.4662620643149155
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 1(15N), 0(13C)",0.20778720873655188
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 1(15N), 0(13C)",1.2110550827233946
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 1(15N), 0(13C)",9.616015925779855
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 1(15N), 0(13C)",1.7004225107019804
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 1(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_1_A,"L- Glutamine 1(15N), 0(13C)",0.008311589689924456
+230831_Smp_LabBlk_1_B,"L- Glutamine 1(15N), 0(13C)",0.045073213426885986
+230831_Smp_LabBlk_1_C,"L- Glutamine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 1(15N), 0(13C)",0.5995552762604535
+230831_Smp_LabBlk_2_A,"L- Glutamine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_2_B,"L- Glutamine 1(15N), 0(13C)",0.08502845292201683
+230831_Smp_LabBlk_2_C,"L- Glutamine 1(15N), 0(13C)",0.20638462291977316
+230831_Smp_LabBlk_3_A,"L- Glutamine 1(15N), 0(13C)",0.44369710218037106
+230831_Smp_LabBlk_3_B,"L- Glutamine 1(15N), 0(13C)",0.15754157347077702
+230831_Smp_LabBlk_3_C,"L- Glutamine 1(15N), 0(13C)",0.04964713306841591
+230831_Smp_LabBlk_4_A,"L- Glutamine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_4_B,"L- Glutamine 1(15N), 0(13C)",NA
+230831_Smp_LabBlk_4_C,"L- Glutamine 1(15N), 0(13C)",0.8256981888101544
+230831_Smp_LabBlk_5_A,"L- Glutamine 1(15N), 0(13C)",0.02508332330488743
+230831_Smp_LabBlk_5_B,"L- Glutamine 1(15N), 0(13C)",0.20452937994924208
+230831_Smp_LabBlk_5_C,"L- Glutamine 1(15N), 0(13C)",0.2833984537368027
+230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 1(15N), 1(13C)",1.6011970509468792e-4
+230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 1(15N), 1(13C)",7.285495225162203e-4
+230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 1(15N), 1(13C)",0.0016469670447105899
+230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 1(15N), 1(13C)",2.0688339702948269e-4
+230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 1(15N), 1(13C)",1.5712089802393935e-4
+230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Std_H2OinMatrix_1,"L- Glutamine 1(15N), 1(13C)",0.018486110737976187
+230831_Std_H2OinMatrix_2,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Std_H2OinMatrix_3,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 1(15N), 1(13C)",0.012624989874807622
+230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 1(15N), 1(13C)",0.006304540506185256
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 1(15N), 1(13C)",0.1782500991946467
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 1(15N), 1(13C)",1.1837461193515004
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 1(15N), 1(13C)",0.14780880950732173
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 1(15N), 1(13C)",0.04738864645073646
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 1(15N), 1(13C)",0.08789141784596093
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_2_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_3_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_4_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_4_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_4_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_A,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_B,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Smp_LabBlk_5_C,"L- Glutamine 1(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 2(15N), 0(13C)",9.9942600057393815e-05
+230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 2(15N), 0(13C)",1.1842621402139228e-4
+230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 2(15N), 0(13C)",1.2149697680095074e-4
+230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 2(15N), 0(13C)",1.196369420922288e-4
+230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 2(15N), 0(13C)",0.4100010186641917
+230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 2(15N), 0(13C)",0.32556942478445505
+230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 2(15N), 0(13C)",1.7948548401182738
+230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 2(15N), 0(13C)",3.263560362467115
+230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 2(15N), 0(13C)",3.049121068128152
+230831_Std_H2OinMatrix_1,"L- Glutamine 2(15N), 0(13C)",0.7868280525543359
+230831_Std_H2OinMatrix_2,"L- Glutamine 2(15N), 0(13C)",0.11510986987826224
+230831_Std_H2OinMatrix_3,"L- Glutamine 2(15N), 0(13C)",3.2107601425572425
+230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 2(15N), 0(13C)",0.644519567301356
+230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 2(15N), 0(13C)",0.6396601535429173
+230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 2(15N), 0(13C)",4.129622505039935
+230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 2(15N), 0(13C)",0.7095833138236112
+230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 2(15N), 0(13C)",0.019533863946902628
+230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 2(15N), 0(13C)",6.65017001649665
+230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 2(15N), 0(13C)",1.8735206797118742
+230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 2(15N), 0(13C)",0.24554646124217622
+230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 2(15N), 0(13C)",6.728668200964002
+230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 2(15N), 0(13C)",11.034367644714509
+230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 2(15N), 0(13C)",1.9010887454108114
+230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 2(15N), 0(13C)",3.203252485219698
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 2(15N), 0(13C)",13.75136100239919
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 2(15N), 0(13C)",19.36940080560128
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 2(15N), 0(13C)",0.013141315779036569
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 2(15N), 0(13C)",0.20563091651501017
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 2(15N), 0(13C)",0.18589526750542867
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 2(15N), 0(13C)",1.2964686435016926
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 2(15N), 0(13C)",1.0871042626921912
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 2(15N), 0(13C)",0.09322391210805088
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 2(15N), 0(13C)",27.75618492026895
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 2(15N), 0(13C)",106.31014832700932
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 2(15N), 0(13C)",8.829511410544917
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 2(15N), 0(13C)",0.03863397138513119
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 2(15N), 0(13C)",0.34684413336775577
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 2(15N), 0(13C)",13.5703089203463
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 2(15N), 0(13C)",0.4809491077890185
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 2(15N), 0(13C)",0.29191365366093625
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 2(15N), 0(13C)",6.599918118969415
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 2(15N), 0(13C)",6.407191614543169
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 2(15N), 0(13C)",10.062659008789945
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 2(15N), 0(13C)",0.7033759008724239
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 2(15N), 0(13C)",2.235618908107499
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 2(15N), 0(13C)",0.9082574043782411
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 2(15N), 0(13C)",1.8166773926634183
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_LabBlk_1_A,"L- Glutamine 2(15N), 0(13C)",0.005022453639928352
+230831_Smp_LabBlk_1_B,"L- Glutamine 2(15N), 0(13C)",0.026266420678141934
+230831_Smp_LabBlk_1_C,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_LabBlk_2_A,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_LabBlk_2_B,"L- Glutamine 2(15N), 0(13C)",0.04760690229003165
+230831_Smp_LabBlk_2_C,"L- Glutamine 2(15N), 0(13C)",0.10137466395289355
+230831_Smp_LabBlk_3_A,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_LabBlk_3_B,"L- Glutamine 2(15N), 0(13C)",0.11466606156871643
+230831_Smp_LabBlk_3_C,"L- Glutamine 2(15N), 0(13C)",0.01085460240580595
+230831_Smp_LabBlk_4_A,"L- Glutamine 2(15N), 0(13C)",1.4989174885734906
+230831_Smp_LabBlk_4_B,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_LabBlk_4_C,"L- Glutamine 2(15N), 0(13C)",0.3973591857041051
+230831_Smp_LabBlk_5_A,"L- Glutamine 2(15N), 0(13C)",NA
+230831_Smp_LabBlk_5_B,"L- Glutamine 2(15N), 0(13C)",0.0955986704943117
+230831_Smp_LabBlk_5_C,"L- Glutamine 2(15N), 0(13C)",0.11247817773713525
+230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 2(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 2(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 2(15N), 1(13C)",NA
+230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 2(15N), 1(13C)",2.61356992313444e-4
+230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 2(15N), 1(13C)",2.2167746578657767e-4
+230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 2(15N), 1(13C)",0.21558287390564895
+230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 2(15N), 1(13C)",6.418172969179749
+230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 2(15N), 1(13C)",11.864046579330422
+230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 2(15N), 1(13C)",25.149594646763607
+230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 2(15N), 1(13C)",2.753271867553304
+230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 2(15N), 1(13C)",27.57677871967261
+230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 2(15N), 1(13C)",28.61708888435414
+230831_Std_H2OinMatrix_1,"L- Glutamine 2(15N), 1(13C)",0.07239497848556092
+230831_Std_H2OinMatrix_2,"L- Glutamine 2(15N), 1(13C)",0.45291655100919403
+230831_Std_H2OinMatrix_3,"L- Glutamine 2(15N), 1(13C)",0.10330517990528731
+230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 2(15N), 1(13C)",0.05130608258582837
+230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 2(15N), 1(13C)",0.0237559513630759
+230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 2(15N), 1(13C)",0.5176436189039874
+230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 2(15N), 1(13C)",0.03770285912755684
+230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 2(15N), 1(13C)",0.023553982889011997
+230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 2(15N), 1(13C)",2.1459336318441458
+230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 2(15N), 1(13C)",0.5010659476101931
+230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 2(15N), 1(13C)",3.074513580107055
+230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 2(15N), 1(13C)",1.189891006991185
+230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 2(15N), 1(13C)",1.047176976960081
+230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 2(15N), 1(13C)",0.21628687175591846
+230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 2(15N), 1(13C)",0.04835994114146805
+230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 2(15N), 1(13C)",0.0423496029654792
+230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 2(15N), 1(13C)",0.02935334585182136
+230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 2(15N), 1(13C)",0.12644404775552318
+230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 2(15N), 1(13C)",0.4288253533026726
+230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 2(15N), 1(13C)",3.9039347022992255
+230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 2(15N), 1(13C)",0.03596166912841156
+230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 2(15N), 1(13C)",0.7045527535212345
+230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 2(15N), 1(13C)",0.5665026243139137
+230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 2(15N), 1(13C)",0.8382686276507818
+230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 2(15N), 1(13C)",0.18286944694104132
+230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 2(15N), 1(13C)",0.024681069735909333
+230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 2(15N), 1(13C)",1.3803176373443717
+230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 2(15N), 1(13C)",7.504160055191445
+230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 2(15N), 1(13C)",0.3014371902309721
+230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 2(15N), 1(13C)",0.19777006744376438
+230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 2(15N), 1(13C)",0.14329165978618114
+230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 2(15N), 1(13C)",0.10990313913351119
+230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 2(15N), 1(13C)",2.2966696409192853
+230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 2(15N), 1(13C)",0.04719618951875414
+230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 2(15N), 1(13C)",0.10632896123160201
+230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 2(15N), 1(13C)",0.24020916881449295
+230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 2(15N), 1(13C)",1.4499471624825064
+230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 2(15N), 1(13C)",1.401970201803004
+230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 2(15N), 1(13C)",2.510051839676318
+230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 2(15N), 1(13C)",0.21244526139373954
+230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 2(15N), 1(13C)",0.4852236244141476
+230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 2(15N), 1(13C)",1.4703551373786317
+230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 2(15N), 1(13C)",0.1774739846169909
+230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 2(15N), 1(13C)",1.6383193895375563
+230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 2(15N), 1(13C)",0.5066992217305051
+230831_Smp_LabBlk_1_A,"L- Glutamine 2(15N), 1(13C)",0.00405315404377746
+230831_Smp_LabBlk_1_B,"L- Glutamine 2(15N), 1(13C)",0.01788266969376206
+230831_Smp_LabBlk_1_C,"L- Glutamine 2(15N), 1(13C)",0.2539109506618532
+230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 2(15N), 1(13C)",0.7026635084835887
+230831_Smp_LabBlk_2_A,"L- Glutamine 2(15N), 1(13C)",0.3191982045100996
+230831_Smp_LabBlk_2_B,"L- Glutamine 2(15N), 1(13C)",0.09407652393515828
+230831_Smp_LabBlk_2_C,"L- Glutamine 2(15N), 1(13C)",0.25399174983945927
+230831_Smp_LabBlk_3_A,"L- Glutamine 2(15N), 1(13C)",0.23914952450348448
+230831_Smp_LabBlk_3_B,"L- Glutamine 2(15N), 1(13C)",0.28994997136590056
+230831_Smp_LabBlk_3_C,"L- Glutamine 2(15N), 1(13C)",0.19128235254882545
+230831_Smp_LabBlk_4_A,"L- Glutamine 2(15N), 1(13C)",1.4245850372865048
+230831_Smp_LabBlk_4_B,"L- Glutamine 2(15N), 1(13C)",0.013443568940701657
+230831_Smp_LabBlk_4_C,"L- Glutamine 2(15N), 1(13C)",0.34739347326242753
+230831_Smp_LabBlk_5_A,"L- Glutamine 2(15N), 1(13C)",0.012280050020144095
+230831_Smp_LabBlk_5_B,"L- Glutamine 2(15N), 1(13C)",0.08666749876341179
+230831_Smp_LabBlk_5_C,"L- Glutamine 2(15N), 1(13C)",0.13885886884473633

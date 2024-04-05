@@ -1,0 +1,70 @@
+﻿Compound,Fraction,EE (%),RSD of EE (%),R2,LOD (nM)
+(3-Carboxypropyl)trimethylammonium,HILIC positive,46.8,27.6,0.964,0.012
+(Iso)leucine,HILIC positive,59.7,17.6,0.949,0.23
+"3',5'-Cyclic adenosine monophosphate",HILIC negative,5.92,39.7,0.886,0.0071
+4-Aminobutyric acid,HILIC positive,89.2,16.9,0.934,0.67
+5-Hydroxyectoine,HILIC positive,47.2,16,0.994,0.0074
+5-Methylcytosine,HILIC positive,21,15.1,0.962,0.042
+5-0xoproline,HILIC negative,18.1,38.5,0.912,17
+Abscisic acid,RP,4.77,38.1,0.925,0.62
+Adenine,HILIC positive,49.1,18.4,0.954,0.23
+Adenosine,HILIC positive,10.6,20.9,0.953,0.12
+Adenosine monophosphate,HILIC negative,23,39.3,0.961,0.027
+Allopurinol,HILIC negative,46,38.6,0.859,1.2
+Arsenobetaine,HILIC positive,88.9,14.1,0.992,0.0013
+beta-Alanine,HILIC positive,82.1,15.4,0.977,1.3
+beta-Alaninebetaine,HILIC positive,66.2,15.1,0.991,0.014
+beta-Glutamic acid,HILIC positive,52.9,12.7,0.843,1
+Betonicine,HILIC positive,89.2,14.1,0.996,0.0059
+Butyrylcarnitine,HILIC positive,5.56,39.2,0.93,0.009
+Citrulline,HILIC positive,40.2,27.7,0.857,1.5
+Creatine,HILIC positive,50.4,19.5,0.98,0.047
+Cytidine,HILIC positive,19.9,21.3,0.97,0.038
+Cytosine,HILIC positive,30.8,15.2,0.969,0.05
+Desthiobiotin,RP,66.1,38.3,0.784,0.0042
+Dimethylglycine,HILIC positive,65.1,14.9,0.993,0.7
+DMS-Ac,HILIC positive,94.8,12.6,0.996,0.00013
+DMSP,HILIC positive,55.5,15.5,0.973,0.0001
+Ectoine,HILIC positive,47.6,12.5,0.99,0.025
+Glucosamine,HILIC positive,49.4,15.9,0.988,0.21
+Glutamylphenylalanine,HILIC positive,26,23.4,0.923,0.012
+Glycerophosphocholine,HILIC positive,2.24,47.8,0.931,0.25
+Glycine betaine,HILIC positive,100,20.6,0.969,0.38
+Gonyol,HILIC positive,71,26.2,0.974,0.17
+Guanine,HILIC positive,47.1,26,0.955,0.35
+Guanosine,HILIC positive,13.2,30,0.952,0.17
+Homarine,HILIC positive,50,15.2,0.995,0.15
+Hordenine,HILIC positive,7.29,41.9,0.732,0.06
+Hydroxyisoleucine,HILIC positive,63.2,39.1,0.916,0
+Hydroxyproline,HILIC positive,54.5,16.1,0.965,0.041
+Hypoxanthine,HILIC positive,59.6,18.7,0.978,0.39
+Inosine,HILIC negative,36.7,28.2,0.95,0.023
+L-alanine,HILIC positive,106,30.3,0.974,1.8
+L-asparagne,HILIC positive,82.7,14.4,0.916,0.49
+L-aspartic acid,HILIC positive,67.2,18.5,0.963,3.4
+L-glutamic acid,HILIC positive,53.7,22.4,0.85,2
+L-glutamine,HILIC positive,131,16.8,0.988,0.024
+L-histidine,HILIC positive,33,36.8,0.969,0.66
+L-Homoserine,HILIC positive,68.8,18.1,0.986,0.18
+L-Hydroxylysine,HILIC positive,38.2,23.4,0.732,0.0026
+L-lysine,HILIC positive,56.2,39.1,0.888,1.5
+L-methionine S-oxide,HILIC positive,72.6,18.6,0.973,0.16
+L-ornithine,HILIC positive,47.2,30.7,0.907,6.8
+L-phenylalanine,RP,128,21,0.914,0.2
+L-proline,HILIC positive,104,16.4,0.984,0.51
+L-serine,HILIC positive,75.3,38.4,0.919,4
+L-threonine,HILIC positive,62.2,17.5,0.942,0.21
+I-tyrosine,HILIC positive,28.6,26.7,0.938,0.88
+Melamine,HILIC positive,60.2,18.2,0.975,0.36
+Muramic acid,HILIC positive,14.6,25.5,0.968,0.046
+N6-acetyl-1-lysine,HILIC positive,37.8,26.4,0.984,0.015
+N6-Methyladenine,HILIC positive,15.8,29.2,0.917,0.02
+Nicotinic acid,RP,102,12.2,0.894,1.1
+O-Methylmalonyl-L-carnitine,HILIC positive,47.4,20.7,0.989,0.0064
+Ophthalmic acid,HILIC positive,23,27.8,0.959,0.02
+Proline betaine,HILIC positive,58.2,17.3,0.985,0.022
+Sarcosine,HILIC positive,41,14.4,0.968,0.32
+Trigonelline,HILIC positive,53.3,15.7,0.987,0.057
+TMAO,HILIC positive,54.7,33,0.946,0.13
+Urocanic acid,HILIC negative,65.6,17.6,0.939,0.73
+Xanthine,RP,69.2,22.7,0.965,0.055

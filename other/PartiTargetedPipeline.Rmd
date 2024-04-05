@@ -1,0 +1,134 @@
+---
+title: "PartiTargetPipeline"
+author: "Susan Garcia"
+date: "2023-10-04"
+output: html_document
+---
+somethings wrong..... :(
+
+Goals:
+
+Section I: Import and cleaning/rearranging of data.
+Section II: Applying Best-Matched Internal Standard (B-MIS).
+Section III: Quantifying peak area to umol/vial when possible. 
+
+
+Loading libraries
+```{r}
+library(tidyverse)
+library(janitor)
+library(dplyr)
+library(tidyr)
+library(readr)
+```
+# Section I: Import and cleaning/rearranging of data.
+## Cleaning transition list
+```{r}
+transition_list <- read_csv("data_raw/HILIC_QE_Positive_Parti_CRR_TransitionResults.csv")
+
+#Cleaning up the transition list
+clean_areas <- transition_list %>%
+  select(filename=`Replicate Name`, compound_name=`Precursor Ion Name`, area=Area) %>%
+  mutate(cmpd_type=ifelse(str_detect(compound_name, ", "), "IS", "Non-IS")) %>%
+  mutate(area=as.numeric(area)) %>%
+  mutate(samp_type=str_extract(filename, "Poo|Blk|Smp|Std")) %>%
+  mutate(day=str_extract(filename, "D\\d+")) %>%
+  mutate(day=as.numeric(str_remove(day, "D"))) %>%
+  arrange(day) %>%
+  mutate(filename=fct_inorder(filename)) %>%
+  select(-day) %>%
+  arrange(compound_name, filename)
+
+#Making a df for just the IS
+IS_list <- clean_areas %>%
+  filter(cmpd_type=="IS")
+```
+# Importing Standards List
+```{r}
+standards_list <- read_csv("data_raw/Ingalls_Lab_Standards.csv") %>%
+  clean_names() %>%
+  select("compound_name", "hilic_mix", "concentration_u_m", "z") %>%
+  filter(z == 1) %>%
+  mutate(cmpd_type=ifelse(str_detect(compound_name, ", "), "IS", "Non-IS")) %>%
+  semi_join(clean_areas, by = "compound_name") %>%
+  filter (cmpd_type == "Non-IS") %>%
+  rename(mix = hilic_mix, conc_um = concentration_u_m)
+```
+
+
+# Section II: Applying Best-Matched Internal Standard (B-MIS).
+```{r}
+#Performing a visual check on the IS
+clean_areas %>%
+  filter(compound_name=="Homarine" |
+           cmpd_type=="IS") %>%
+  filter(samp_type=="Poo") %>%
+  group_by(compound_name) %>%
+  ggplot() +
+  geom_col(aes(x=filename, y=area)) +
+  facet_wrap(~compound_name, ncol=2, scales="free_y")
+
+# Not sure yet
+chosen_BMIS <- clean_areas %>%
+  filter(cmpd_type=="Non-IS") %>%
+  filter(samp_type=="Poo") %>%
+  # summarise(cv_init=sd(area)/mean(area))
+  left_join(IS_list, by="filename", suffix=c("", "_IS"), relationship = "many-to-many") %>%
+  select(filename, compound_name, compound_name_IS, area, area_IS) %>%
+  group_by(compound_name, compound_name_IS) %>%
+  mutate(norm_area=area/area_IS*mean(area_IS)) %>%
+  summarise(cv_IS=sd(norm_area)/mean(norm_area)) %>%
+  arrange(compound_name, cv_IS) %>%
+  slice(1)
+
+
+#Not sure yet
+BMISed_areas <- clean_areas %>%
+  filter(cmpd_type=="Non-IS") %>%
+  select(filename, compound_name, area) %>%
+  left_join(chosen_BMIS) %>%
+  select(-cv_IS) %>%
+  left_join(clean_areas, by=c("filename", compound_name_IS="compound_name"),
+            suffix=c("", "_IS")) %>%
+  # slice(1:43) %>% distinct(filename) %>% print(n=Inf)
+  select(filename, compound_name, area, area_IS) %>%
+  group_by(compound_name) %>%
+  mutate(bmised_area=area/area_IS*mean(area_IS[1:39], na.rm = TRUE)) %>%
+  select(filename, compound_name, bmised_area) 
+```
+
+
+# Section III: Quantifying peak area to umol/vial when possible.
+
+```{r}
+all_rfs <- clean_areas %>%
+  left_join(standards_list, by = "compound_name") %>%
+  #mutate(bmised_area = as.numeric(area)) %>%
+  filter(str_detect(filename, paste0(mix, "InMatrix|H2OinMatrix"))) %>%
+  mutate(std_type = str_extract(filename, "Mix|H2O")) %>%
+  select(-mix) %>%
+  group_by(compound_name, std_type, conc_um) %>%
+  summarise(mean_area = mean(area)) %>%
+  pivot_wider(names_from = std_type, values_from = mean_area) %>%
+  mutate(area_from_4um_addition = Mix - H2O) %>%
+  mutate(rf = conc_um / area_from_4um_addition) %>%
+  mutate(rf_ratio = Mix / H2O) %>%
+  select(compound_name, rf, rf_ratio)
+
+```
+
+```{r}
+parti_final_concs <- BMISed_areas %>%
+  filter(!str_detect(filename, "Std")) %>%
+  left_join(all_rfs) %>%
+  mutate(uM_in_vial=bmised_area/rf) %>%
+  select(compound_name, filename, uM_in_vial) %>%
+  mutate(uM_in_env=uM_in_vial/100) %>%
+  mutate(nM=uM_in_env*1000) %>%
+  select(compound_name, filename, nM)
+```
+## Write out the CSV for all
+```{r}
+write_csv(parti_final_concs, "intermediates/full_parti_final_concs.csv")
+```
+

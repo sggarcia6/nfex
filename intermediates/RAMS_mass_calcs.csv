@@ -1,0 +1,41 @@
+Compound_name,Value,Isotope_Change
+"Choline 0(15N), 0(13C)",104.10753907,No change
+"Choline 1(15N), 0(13C)",105.10457407,15N added
+"Choline 0(15N), 1(13C)",105.11089407,13C added
+"Choline 1(15N), 1(13C)",106.10792907,15N and 13C added
+"Carnitine 0(15N), 0(13C)",162.11246934,No change
+"Carnitine 1(15N), 0(13C)",163.10950434,15N added
+"Carnitine 0(15N), 1(13C)",163.11582434,13C added
+"Carnitine 1(15N), 1(13C)",164.11285934,15N and 13C added
+"Proline 0(15N), 0(13C)",116.07060453000001,No change
+"Proline 1(15N), 0(13C)",117.06763953000001,15N added
+"Proline 0(15N), 1(13C)",117.07395953000001,13C added
+"Proline 1(15N), 1(13C)",118.07099453000001,15N and 13C added
+"Proline Betaine 0(15N), 0(13C)",144.10190465699998,No change
+"Proline Betaine 1(15N), 0(13C)",145.098939657,15N added
+"Proline Betaine 0(15N), 1(13C)",145.10525965699998,13C added
+"Proline Betaine 1(15N), 1(13C)",146.102294657,15N and 13C added
+"Lysine 0(15N), 0(13C)",147.11280369399998,No change
+"Lysine 1(15N), 0(13C)",148.109838694,15N added
+"Lysine 2(15N), 0(13C)",149.106873694,15N added
+"Lysine 0(15N), 1(13C)",148.11615869399998,13C added
+"Lysine 1(15N), 1(13C)",149.113193694,15N and 13C added
+"Lysine 2(15N), 1(13C)",150.110228694,15N and 13C added
+"Trimethylamine N-Oxide 0(15N), 0(13C)",76.075689911,No change
+"Trimethylamine N-Oxide 1(15N), 0(13C)",77.072724911,15N added
+"Trimethylamine N-Oxide 0(15N), 1(13C)",77.079044911,13C added
+"Trimethylamine N-Oxide 1(15N), 1(13C)",78.076079911,15N and 13C added
+"Glycine 0(15N), 0(13C)",76.039304402,No change
+"Glycine 1(15N), 0(13C)",77.036339402,15N added
+"Glycine 0(15N), 1(13C)",77.042659402,13C added
+"Glycine 1(15N), 1(13C)",78.039694402,15N and 13C added
+"Dimethylglycine 0(15N), 0(13C)",104.07060453000001,No change
+"Dimethylglycine 1(15N), 0(13C)",105.06763953000001,15N added
+"Dimethylglycine 0(15N), 1(13C)",105.07395953000001,13C added
+"Dimethylglycine 1(15N), 1(13C)",106.07099453000001,15N and 13C added
+"Ectoine 0(15N), 0(13C)",143.08150356599998,No change
+"Ectoine 1(15N), 0(13C)",144.078538566,15N added
+"Ectoine 2(15N), 0(13C)",145.075573566,15N added
+"Ectoine 0(15N), 1(13C)",144.08485856599998,13C added
+"Ectoine 1(15N), 1(13C)",145.081893566,15N and 13C added
+"Ectoine 2(15N), 1(13C)",146.078928566,15N and 13C added

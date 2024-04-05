@@ -1,0 +1,208 @@
+---
+title: "Targeted_Pipeline_CXC"
+author: "Susan Garcia"
+date: "2023-10-01"
+output: html_document
+---
+
+Goals:
+
+Section I: Import and cleaning/rearranging of data.
+Section II: Applying Best-Matched Internal Standard (B-MIS).
+Section III: Quantifying peak area to umol/vial when possible. 
+Section IV: Limit of Detection for Dissolved Samples.
+
+Loading libraries
+```{r}
+library(tidyverse)
+library(janitor)
+library(dplyr)
+library(tidyr)
+library(readr)
+```
+# Section I: Import and cleaning/rearranging of data.----
+## Cleaning transition list
+```{r}
+transition_list <- read_csv("data_raw/HILIC_QE_Positive_CXC_CRR_TransitionResults.csv")
+
+#Cleaning up the transition list
+clean_areas <- transition_list %>%
+  select(filename=`Replicate Name`, compound_name=`Precursor Ion Name`, area=Area) %>%
+  #mutate(cmpd_type=ifelse(str_detect(compound_name, ", "), "IS", "Non-IS")) %>%
+  mutate(area=as.numeric(area)) %>%
+  mutate(samp_type=str_extract(filename, "Poo|Blk|Smp|Std")) %>%
+  mutate(day=str_extract(filename, "D\\d+")) %>%
+  mutate(day=as.numeric(str_remove(day, "D"))) %>%
+  arrange(day) %>%
+  mutate(filename=fct_inorder(filename)) %>%
+  select(-day) %>%
+  arrange(compound_name, filename) %>%
+  mutate(compound_name=case_when(
+    compound_name=="DL-Alanine, 2H3"~"L-Alanine, 2H3",
+    compound_name=="DL-Proline, 2H7"~"L-Proline, 2H7",
+    compound_name=="DL-Valine, 2H8"~"L-Valine, 2H8",
+    compound_name=="DL-Histidine, 15N"~"L-Histidine, 15N",
+    TRUE~compound_name
+  ))
+  #filter(compound_name == "Glycine betaine")
+
+
+```
+## Importing Standards List
+```{r}
+standards_list_all_pos <- read_csv("data_raw/Ingalls_Lab_Standards.csv") %>%
+  clean_names() %>%
+  filter(z == 1) %>%
+  filter(column=="HILIC") %>%
+  select("compound_name", mix="hilic_mix", conc_um="concentration_u_m", cmpd_type="compound_type") %>%
+  # mutate(cmpd_type=ifelse(str_detect(compound_name, ", "), "IS", "Non-IS")) %>%
+  right_join(clean_areas, by = "compound_name")
+
+standards_list <- standards_list_all_pos %>%
+  filter(cmpd_type != "Internal Standard")
+
+#Making a df for just the IS
+IS_list <- standards_list_all_pos %>%
+  filter(cmpd_type=="Internal Standard") %>%
+  filter(compound_name!="L-Arginine, 13C6, 15N4") %>%
+  filter(compound_name!="Trimethylamine N-oxide, 2H9")
+```
+
+
+
+## Importing Dissolved Extraction Efficiency Table (J.Sacks)
+
+```{r}
+ee_list <- read_csv("data_raw/js_diss_ee.csv") %>%
+  clean_names() %>%
+  mutate(ee = 100/ee_percent,
+         compound_name = compound) %>%
+  filter(fraction == "HILIC positive") %>%
+  select(compound_name, ee)
+  # select(compound_name, fraction, ee) 
+ 
+#Do i want to keep the fraction? or do i also want to get rid of the ones that are not Positive?
+```
+
+
+# Section II: Applying Best-Matched Internal Standard (B-MIS). ----
+```{r}
+#Performing a visual check on the IS
+
+clean_areas %>%
+  filter(compound_name=="Homarine") %>%
+  bind_rows(IS_list) %>%
+  filter(samp_type=="Poo") %>%
+  group_by(compound_name) %>%
+  ggplot() +
+  geom_col(aes(x=filename, y=area)) +
+  facet_wrap(~compound_name, ncol=2, scales="free_y")
+
+# Choosing a BMIS correctly 
+chosen_BMIS <- standards_list %>%
+  filter(samp_type=="Poo") %>%
+  # summarise(cv_init=sd(area)/mean(area))
+  left_join(IS_list, by="filename", suffix=c("", "_IS"), relationship = "many-to-many") %>%
+  select(filename, compound_name, compound_name_IS, area, area_IS) %>%
+  group_by(compound_name, compound_name_IS) %>%
+  mutate(norm_area=area/area_IS*mean(area_IS)) %>%
+  summarise(cv_IS=sd(norm_area)/mean(norm_area)) %>%
+  arrange(compound_name, cv_IS) %>%
+  slice(1)
+
+
+#BMISed areas calculated
+BMISed_areas <- standards_list %>%
+  select(filename, compound_name, area) %>%
+  left_join(chosen_BMIS) %>%
+  select(-cv_IS) %>%
+  left_join(IS_list, by=c("filename", compound_name_IS="compound_name"),
+            suffix=c("", "_IS")) %>%
+  # slice(1:43) %>% distinct(filename) %>% print(n=Inf)
+  select(filename, compound_name, area, area_IS) %>%
+  group_by(compound_name) %>%
+  mutate(bmised_area=area/area_IS*mean(area_IS[1:39], na.rm = TRUE)) %>%
+  select(filename, compound_name, bmised_area) 
+```
+
+
+# Section III: Quantifying peak area to umol/vial when possible. ----
+
+```{r}
+all_rfs <- standards_list %>%
+  filter(samp_type=="Std") %>%
+  #filter(compound_name=="Glycine") %>%
+  mutate(std_type=str_extract(filename, paste0(c(paste0(mix, "InMatrix"), paste0(mix, "InH2O"), "H2OinMatrix"), collapse = "|"))) %>%
+  mutate(std_num = case_when(str_detect(filename, "_1") ~ 1,
+                             str_detect(filename, "_2") ~ 2)) %>%
+  drop_na() %>%
+  select(-mix, -filename) %>%
+  mutate(std_type=str_remove(std_type, "(?<=Mix)\\d")) %>%
+  pivot_wider(names_from = std_type, values_from = area, values_fn = mean) %>%
+  mutate(area_from_4um_addition_to_mat = MixInMatrix - H2OinMatrix) %>%
+  mutate(rf_matrix =  area_from_4um_addition_to_mat / conc_um) %>%
+  mutate(rf_h2o = MixInH2O / conc_um) %>%
+  mutate(rf_ratio = rf_matrix / rf_h2o)# %>%
+  select(compound_name, rf_h2o, rf_matrix, rf_ratio)
+
+#calculate avg and std for each rf_matrix/h2o,ratio: group by compound and ungroup to get to the point
+
+```
+
+```{r}
+final_concs <- BMISed_areas %>%
+  filter(!str_detect(filename, "Std")) %>%
+  left_join(all_rfs) %>%
+  mutate(uM_in_vial=bmised_area/rf_matrix) %>%
+  #select(compound_name, filename, uM_in_vial) %>%
+  mutate(uM_in_env=uM_in_vial/100) %>%
+  mutate(nM=uM_in_env*1000) %>%
+  select(compound_name, filename, nM)
+```
+
+# Section IV: Limit of Detection for Dissolved Samples. ----
+
+## Determine Limit of Detection
+```{r}
+lod_blks <- final_concs %>%
+  # filter(compound_name == "Ophthalmic acid")
+  filter(str_detect(filename, "230710_Smp_LabBlk")) %>%
+  group_by(compound_name) %>%
+  filter(!is.na(nM)) %>%
+  mutate(blank_avg = mean(nM, na.rm = TRUE),
+         SB = sd(nM))  %>%
+  #mutate(parent_filename = str_extract(filename, "230710_Smp_LabBlk")) %>%
+  inner_join(ee_list, by = "compound_name") %>%
+  left_join(all_rfs, by = "compound_name") %>%
+  group_by(compound_name) %>%
+  slice(1) %>%
+  mutate(nis = 15) %>%
+  mutate(LOD = (blank_avg + ((1.761 * SB) / sqrt(nis))) * (1 / ee)) %>%
+  select(compound_name, LOD)
+
+```
+
+
+## Extraction Efficiency
+
+```{r}
+#took into account extraction efficiency
+diss_final_concs <- final_concs %>%
+  inner_join(ee_list, by = "compound_name") %>%
+  mutate(final_nM = nM * ee) %>%
+  left_join(select(lod_blks, compound_name, LOD), by = "compound_name") %>%
+  mutate(cxc_final_nM = final_nM >= LOD) %>%
+  filter(final_nM > LOD)
+
+diss_final_concs_types <- diss_final_concs %>%
+  left_join(standards_list_all_pos, by = c("compound_name" = "compound_name")) %>%
+  select("compound_name", "cmpd_type", "filename.x", "final_nM") %>%
+  clean_names()
+```
+
+
+## Write out the CSV for all
+```{r}
+write_csv(diss_final_concs, "intermediates/full_diss_final_concs.csv")
+```
+
