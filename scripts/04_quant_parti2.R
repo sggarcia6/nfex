@@ -1,9 +1,9 @@
 # Section III: Quantifying peak area to umol/vial when possible.
 
 #we use actually use the raw results
-clean_areas <- read_csv("intermediates/NFEX_parti_clean_areas.csv")
+clean_areas <- read_csv("intermediates/NFEX_parti2_clean_areas.csv")
 standards_list <- read_csv("intermediates/NFEX_parti_standards_list.csv")
-cmpd_cncs <- read_csv("intermediates/NFEX_parti_cmpd_cncs.csv")
+cmpd_cncs <- read_csv("intermediates/NFEX_parti2_cmpd_cncs.csv")
 BMISed_areas <- read_csv("intermediates/NFEX_parti2_BMISed_areas.csv")
 
 # Setting the stage with clean_areas and the concs that were calculate
@@ -61,12 +61,5 @@ final_concs <- BMISed_areas %>%
 
 
 write_csv(final_concs, "intermediates/NFEX_parti_final_concs.csv")
-
-
-
-
-
-
-
 
 
