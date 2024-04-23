@@ -14,13 +14,15 @@ updated_clean_areas <- clean_areas %>%
 #wrangling and cleaning now that it has been combined
 cleanareas_and_stdslist <- updated_clean_areas %>%
   left_join(standards_list, by = "compound_name") %>%
-  filter(compound_name %in% c("Glycine betaine 0(15N), 0(13C)", "Guanine 0(15N), 0(13C)", "Homarine 0(15N, 0(13C)", "L- Glutamine 0(15N), 0(13C)", "L-Glutamic acid 0(15N), 0(13C)")) %>%
+  filter(compound_name %in% c("Carnitine 0(15N), 0(13C)", "Choline 0(15N), 0(13C)", "Dimethylglycine 0(15N), 0(13C)", "Ectoine 0(15N), 0(13C)", "Glycine 0(15N), 0(13C)", 
+                              "Lysine 0(15N), 0(13C)", "Proline 0(15N), 0(13C)", "Proline Betaine 0(15N), 0(13C)", "Trimethylamine N-Oxide 0(15N), 0(13C)")) %>%
   mutate(conc_um = coalesce(conc_um.x, conc_um.y)) %>%
   mutate(cmpd_type = coalesce(cmpd_type.x, cmpd_type.y)) %>%
   select(-conc_um.x, -conc_um.y, -cmpd_type.x, -cmpd_type.y, -z) %>%
   mutate(mix = case_when(
-    compound_name %in% c("Glycine betaine 0(15N), 0(13C)", "Guanine 0(15N), 0(13C)", "Homarine 0(15N, 0(13C)") ~ "Mix2",
-    compound_name %in% c("L- Glutamine 0(15N), 0(13C)", "L-Glutamic acid 0(15N), 0(13C)") ~ "Mix1",
+    compound_name %in% c("Ectoine 0(15N), 0(13C)", "Trimethylamine N-Oxide 0(15N), 0(13C)") ~ "Mix2",
+    compound_name %in% c("Carnitine 0(15N), 0(13C)", "Choline 0(15N), 0(13C)", "Dimethylglycine 0(15N), 0(13C)", "Glycine 0(15N), 0(13C)", 
+                         "Lysine 0(15N), 0(13C)", "Proline 0(15N), 0(13C)", "Proline Betaine 0(15N), 0(13C)") ~ "Mix1",
     TRUE ~ "NoMix"
   )) %>%
   select("filename", "compound_name", "area", "mix", "conc_um")
@@ -38,7 +40,8 @@ all_rfs <-  cleanareas_and_stdslist  %>%
   mutate(area_from_4um_addition=Mix-H2O) %>%
   mutate(rf=area_from_4um_addition/conc_um) %>%
   mutate(rf_ratio = Mix / H2O) %>%
-  select(compound_name, rf, rf_ratio)
+  select(compound_name, rf, rf_ratio) %>%
+  na.omit()
 
 
 #Rf and rf ratios are being combine to all the labeled ones too to then
@@ -60,6 +63,6 @@ final_concs <- BMISed_areas %>%
 
 
 
-write_csv(final_concs, "intermediates/NFEX_parti_final_concs.csv")
+write_csv(final_concs, "intermediates/NFEX_parti2_final_concs.csv")
 
 
