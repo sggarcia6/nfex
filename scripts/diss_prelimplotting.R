@@ -96,33 +96,33 @@ NO3_compound_group_plot
 
 
 
-#Mass Isotope Distribution (MID) for Urea ----
-
-GBT_Urea_final_concs <- final_concs %>%
-  filter(treatment == "Urea", grepl("Glycine betaine", compound_name)) %>%
-  ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
-  geom_col(position = "fill", color = "black")
-
-Guanine_Urea_final_concs_plot <- final_concs %>%
-  filter(treatment == "Urea", grepl("Guanine", compound_name)) %>%
-  ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
-  geom_col(position = "fill", color = "black")
-
-Homarine_Urea_final_concs_plot <- final_concs %>%
-  filter(treatment == "Urea", grepl("Homarine", compound_name)) %>%
-  ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
-  geom_col(position = "fill", color = "black")
-
-Glutamic_Urea_final_concs_plot <- final_concs %>%
-  filter(treatment == "Urea", grepl("L-Glutamic acid", compound_name)) %>%
-  ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
-  geom_col(position = "fill", color = "black")
-
-Glutamine_Urea_final_concs_plot <- final_concs %>%
-  filter(treatment == "Urea", grepl("L- Glutamine", compound_name)) %>%
-  ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
-  geom_col(position = "fill", color = "black")
-
+# #Mass Isotope Distribution (MID) for Urea ----
+# 
+# GBT_Urea_final_concs <- final_concs %>%
+#   filter(treatment == "Urea", grepl("Glycine betaine", compound_name)) %>%
+#   ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
+#   geom_col(position = "fill", color = "black")
+# 
+# Guanine_Urea_final_concs_plot <- final_concs %>%
+#   filter(treatment == "Urea", grepl("Guanine", compound_name)) %>%
+#   ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
+#   geom_col(position = "fill", color = "black")
+# 
+# Homarine_Urea_final_concs_plot <- final_concs %>%
+#   filter(treatment == "Urea", grepl("Homarine", compound_name)) %>%
+#   ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
+#   geom_col(position = "fill", color = "black")
+# 
+# Glutamic_Urea_final_concs_plot <- final_concs %>%
+#   filter(treatment == "Urea", grepl("L-Glutamic acid", compound_name)) %>%
+#   ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
+#   geom_col(position = "fill", color = "black")
+# 
+# Glutamine_Urea_final_concs_plot <- final_concs %>%
+#   filter(treatment == "Urea", grepl("L- Glutamine", compound_name)) %>%
+#   ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
+#   geom_col(position = "fill", color = "black")
+# 
 
 
 # size and settings
@@ -132,7 +132,7 @@ theme_set(theme_minimal(base_size = 12) +
                   legend.position = "bottom"))
 
 # make groups seems to be repetitive
-final_concs <- final_concs %>%
+diss_final_concs <- diss_final_concs %>%
   mutate(compound_group = case_when(
     grepl("Glycine betaine", compound_name) ~ "Glycine betaine",
     grepl("Guanine", compound_name) ~ "Guanine",
@@ -144,13 +144,13 @@ final_concs <- final_concs %>%
 
 
 # Filter and plot for all compounds grouped by compound_group
-Urea_compound_group_plot <- final_concs %>%
+Urea_compound_group_plot <- diss_final_concs %>%
   mutate(iso_label=paste0(N, "x15N, ", C, "x13C")) %>%
   filter(treatment == "Urea") %>%
   ggplot(aes(x = day, y = mean_nM, fill = iso_label)) +
   geom_col(position = "fill", color = "black") +
   facet_wrap(~ compound_group, scales = "free_y", nrow = 1) +
-  labs(title = "Particulate Metabolite Mass Isotope Distribution treated by Urea",
+  labs(title = "Dissolved Metabolite Mass Isotope Distribution treated by Urea",
        x = "Hour",
        y = "Mean Concentration (nM)",
        fill = "Isotope Label") +
@@ -161,30 +161,30 @@ Urea_compound_group_plot
 
 #Mass Isotope Distribution (MID) for NH4 ----
 
-GBT_NH4_final_concs <- final_concs %>%
-  filter(treatment == "NH4", grepl("Glycine betaine", compound_name)) %>%
-  ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
-  geom_col(position = "fill", color = "black")
-
-Guanine_NH4_final_concs_plot <- final_concs %>%
-  filter(treatment == "NH4", grepl("Guanine", compound_name)) %>%
-  ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
-  geom_col(position = "fill", color = "black")
-
-Homarine_NH4_final_concs_plot <- final_concs %>%
-  filter(treatment == "NH4", grepl("Homarine", compound_name)) %>%
-  ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
-  geom_col(position = "fill", color = "black")
-
-Glutamic_NH4_final_concs_plot <- final_concs %>%
-  filter(treatment == "NH4", grepl("L-Glutamic acid", compound_name)) %>%
-  ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
-  geom_col(position = "fill", color = "black")
-
-Glutamine_NH4_final_concs_plot <- final_concs %>%
-  filter(treatment == "NH4", grepl("L- Glutamine", compound_name)) %>%
-  ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
-  geom_col(position = "fill", color = "black")
+# GBT_NH4_final_concs <- final_concs %>%
+#   filter(treatment == "NH4", grepl("Glycine betaine", compound_name)) %>%
+#   ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
+#   geom_col(position = "fill", color = "black")
+# 
+# Guanine_NH4_final_concs_plot <- final_concs %>%
+#   filter(treatment == "NH4", grepl("Guanine", compound_name)) %>%
+#   ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
+#   geom_col(position = "fill", color = "black")
+# 
+# Homarine_NH4_final_concs_plot <- final_concs %>%
+#   filter(treatment == "NH4", grepl("Homarine", compound_name)) %>%
+#   ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
+#   geom_col(position = "fill", color = "black")
+# 
+# Glutamic_NH4_final_concs_plot <- final_concs %>%
+#   filter(treatment == "NH4", grepl("L-Glutamic acid", compound_name)) %>%
+#   ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
+#   geom_col(position = "fill", color = "black")
+# 
+# Glutamine_NH4_final_concs_plot <- final_concs %>%
+#   filter(treatment == "NH4", grepl("L- Glutamine", compound_name)) %>%
+#   ggplot(aes(x = day, y = mean_nM, fill = compound_name)) +
+#   geom_col(position = "fill", color = "black")
 
 
 # size and settings
@@ -194,7 +194,7 @@ theme_set(theme_minimal(base_size = 12) +
                   legend.position = "bottom"))
 
 # make groups seems to be repetitive
-final_concs <- final_concs %>%
+diss_final_concs <- diss_final_concs %>%
   mutate(compound_group = case_when(
     grepl("Glycine betaine", compound_name) ~ "Glycine betaine",
     grepl("Guanine", compound_name) ~ "Guanine",
@@ -206,7 +206,7 @@ final_concs <- final_concs %>%
 
 
 # Filter and plot for all compounds grouped by compound_group
-NH4_compound_group_plot <- final_concs %>%
+NH4_compound_group_plot <- diss_final_concs %>%
   mutate(iso_label=paste0(N, "x15N, ", C, "x13C")) %>%
   filter(treatment == "NH4") %>%
   ggplot(aes(x = day, y = mean_nM, fill = iso_label)) +
