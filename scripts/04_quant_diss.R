@@ -25,6 +25,9 @@ cleanareas_and_stdslist <- updated_clean_areas %>%
   )) %>%
   select("filename", "compound_name", "area", "mix", "conc_um")
 
+# (CONCIS/ISArea)*Area smp is what will was doing for the internal standard shit for the 
+# ones that have label in them
+
 
 #now start to calculate the RFs
 all_rfs <-  cleanareas_and_stdslist  %>%
